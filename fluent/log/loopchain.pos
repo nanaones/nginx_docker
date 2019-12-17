@@ -1,0 +1,9 @@
+/loopchain/log/booting_20191217.log	000000000001559b	0000000000f0f4e1
+/loopchain/log/iconrpcserver.log	0000000000017c4b	0000000000f0f6d1
+/loopchain/log/rc.log	0000000000000c44	0000000000f0f6f6
+/loopchain/log/loopchain.citizen.log	000000000000e519	0000000000f0f7fe
+/loopchain/log/iconservice.log	000000000005f49a	0000000000f0f6d7
+/loopchain/log/loopchain.channel.icon_dex.log	00000000000c2f9c	0000000000f0f82a
+/loopchain/log/loopchain.channel-txcreator-icon_dex_broadcast.icon_dex.log	0000000000000423	0000000000f0fc21
+/loopchain/log/loopchain.channel-txcreator.icon_dex.log	00000000000000f5	0000000000f0fc20
+/loopchain/log/loopchain.channel-txreceiver.icon_dex.log	00000000000000f7	0000000000f0fc1f

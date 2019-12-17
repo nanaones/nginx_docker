@@ -1,0 +1,1273 @@
+2019-12-17T04:27:46+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:27:45,170 519 140590035318528 hx80aa95  INFO peer_service.py(144) run peer_id : hx80aa954620a19ae08e0ed2ebb59f8938856af650","hostname":"68274c511de9"}
+2019-12-17T04:27:46+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:27:45,196 519 140590035318528 hx80aa95  INFO grpc_helper.py(76) Server now listen: [::]:7100, secure level : SSLAuthType.none","hostname":"68274c511de9"}
+2019-12-17T04:27:46+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:27:45,197 519 140590035318528 hx80aa95  DEBUG grpc_helper.py(41) outer target host = [::]:7100","hostname":"68274c511de9"}
+2019-12-17T04:27:46+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:27:45,199 519 140590035318528 hx80aa95  INFO peer_service.py(209) Start Peer Service at port: 7100 start duration(0.18837960000018938)","hostname":"68274c511de9"}
+2019-12-17T04:27:46+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:27:45,292 519 140590035318528 hx80aa95  DEBUG stub_collection.py(58) ChannelTasks : icon_dex, Queue : Channel.icon_dex.7100","hostname":"68274c511de9"}
+2019-12-17T04:27:46+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:27:45,324 519 140590035318528 hx80aa95  DEBUG stub_collection.py(83) ChannelTxReceiverTasks : icon_dex, Queue : ChannelTxReceiver.icon_dex.7100","hostname":"68274c511de9"}
+2019-12-17T04:27:46+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:27:45,373 519 140590035318528 hx80aa95  DEBUG common_subprocess.py(25) common_subprocess:CommonSubprocess init","hostname":"68274c511de9"}
+2019-12-17T04:27:46+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:27:45,374 519 140590035318528 hx80aa95  DEBUG common_subprocess.py(44) common_subprocess:CommonSubprocess start","hostname":"68274c511de9"}
+2019-12-17T04:27:46+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:27:45,375 519 140590035318528 hx80aa95  DEBUG common_subprocess.py(46) common_subprocess:CommonSubprocess run process","hostname":"68274c511de9"}
+2019-12-17T04:29:59+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:29:58,600 516 140446277904128 hx80aa95  INFO peer_service.py(144) run peer_id : hx80aa954620a19ae08e0ed2ebb59f8938856af650","hostname":"68274c511de9"}
+2019-12-17T04:29:59+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:29:58,606 516 140446277904128 hx80aa95  INFO grpc_helper.py(76) Server now listen: [::]:7100, secure level : SSLAuthType.none","hostname":"68274c511de9"}
+2019-12-17T04:29:59+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:29:58,607 516 140446277904128 hx80aa95  DEBUG grpc_helper.py(41) outer target host = [::]:7100","hostname":"68274c511de9"}
+2019-12-17T04:29:59+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:29:58,610 516 140446277904128 hx80aa95  INFO peer_service.py(209) Start Peer Service at port: 7100 start duration(0.1325901000018348)","hostname":"68274c511de9"}
+2019-12-17T04:29:59+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:29:58,667 516 140446277904128 hx80aa95  DEBUG stub_collection.py(58) ChannelTasks : icon_dex, Queue : Channel.icon_dex.7100","hostname":"68274c511de9"}
+2019-12-17T04:29:59+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:29:58,692 516 140446277904128 hx80aa95  DEBUG stub_collection.py(83) ChannelTxReceiverTasks : icon_dex, Queue : ChannelTxReceiver.icon_dex.7100","hostname":"68274c511de9"}
+2019-12-17T04:29:59+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:29:58,726 516 140446277904128 hx80aa95  DEBUG common_subprocess.py(25) common_subprocess:CommonSubprocess init","hostname":"68274c511de9"}
+2019-12-17T04:29:59+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:29:58,727 516 140446277904128 hx80aa95  DEBUG common_subprocess.py(44) common_subprocess:CommonSubprocess start","hostname":"68274c511de9"}
+2019-12-17T04:29:59+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:29:58,729 516 140446277904128 hx80aa95  DEBUG common_subprocess.py(46) common_subprocess:CommonSubprocess run process","hostname":"68274c511de9"}
+2019-12-17T04:30:09+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:30:08,635 516 140445991700224 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:30:09+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:30:09+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:30:21+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:30:20,266 516 140446277904128 hx80aa95  INFO peer_service.py(221) peer_service: init complete peer: hx80aa954620a19ae08e0ed2ebb59f8938856af650","hostname":"68274c511de9"}
+2019-12-17T04:30:51+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:30:50,685 516 140445900338944 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:30:51+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:30:51+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:31:13+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:31:12,567 516 140445891946240 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:31:13+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:31:13+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:31:16+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:31:15,736 516 140445900338944 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:31:16+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:31:16+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:31:22+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:31:21,033 516 140445875160832 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:31:22+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:31:22+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:31:51+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:31:51,362 516 140445991700224 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:31:51+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:31:51+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:31:52+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:31:52,604 516 140445900338944 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:31:52+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:31:52+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:31:55+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:31:55,764 516 140445849982720 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:31:55+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:31:55+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:32:23+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:32:23,560 516 140445866768128 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:32:23+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:32:23+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:32:32+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:32:32,653 516 140445991700224 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:32:32+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:32:32+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:32:35+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:32:35,890 516 140445891946240 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:32:35+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:32:35+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:32:54+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:32:53,897 516 140445875160832 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:32:54+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:32:54+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:33:12+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:33:12,780 516 140445883553536 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:33:12+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:33:12+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:33:16+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:33:16,705 516 140445858375424 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:33:16+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:33:16+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:33:22+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:33:22,321 516 140445900338944 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:33:22+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:33:22+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:33:52+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:33:52,601 516 140445849982720 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:33:52+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:33:52+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:33:53+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:33:53,661 516 140445866768128 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:33:53+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:33:53+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:33:57+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:33:57,023 516 140445991700224 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:33:57+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:33:57+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:34:25+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:34:24,810 516 140445891946240 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:34:25+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:34:25+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:34:34+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:34:33,934 516 140445875160832 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:34:34+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:34:34+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:34:38+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:34:38,205 516 140445883553536 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:34:38+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:34:38+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:34:55+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:34:55,096 516 140445858375424 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:34:55+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:34:55+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:35:15+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:35:15,112 516 140445900338944 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:35:15+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:35:15+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:35:18+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:35:18,381 516 140445849982720 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:35:18+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:35:18+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:35:23+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:35:23,487 516 140445866768128 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:35:23+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:35:23+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:35:54+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:35:53,799 516 140445991700224 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:35:54+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:35:54+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:35:55+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:35:55,250 516 140445891946240 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:35:55+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:35:55+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:35:58+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:35:58,317 516 140445875160832 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:35:58+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:35:58+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:36:26+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:36:26,023 516 140445883553536 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:36:26+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:36:26+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:36:35+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:36:35,242 516 140445858375424 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:36:35+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:36:35+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:36:38+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:36:38,493 516 140445900338944 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:36:38+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:36:38+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:36:56+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:36:56,329 516 140445849982720 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:36:56+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:36:56+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:37:15+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:37:15,467 516 140445866768128 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:37:15+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:37:15+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:37:20+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:37:20,135 516 140445991700224 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:37:20+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:37:20+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:37:25+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:37:24,721 516 140445891946240 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:37:25+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:37:25+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:37:57+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:37:56,959 516 140445875160832 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:37:57+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:37:57+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:37:57+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:37:57,011 516 140445883553536 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:37:57+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:37:57+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:38:00+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:38:00,149 516 140445858375424 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:38:00+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:38:00+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:38:27+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:38:27,307 516 140445900338944 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:38:27+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:38:27+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:38:37+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:38:37,084 516 140445849982720 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:38:37+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:38:37+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:38:41+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:38:40,545 516 140445866768128 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:38:41+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:38:41+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:38:56+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:38:57,614 516 140445991700224 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:38:56+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:38:56+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:39:17+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:39:17,433 516 140445891946240 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:39:17+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:39:17+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:39:21+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:39:20,647 516 140445875160832 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:39:21+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:39:21+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:39:26+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:39:26,067 516 140445883553536 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:39:26+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:39:26+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:39:56+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:39:56,349 516 140445858375424 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:39:56+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:39:56+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:39:58+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:39:57,489 516 140445900338944 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:39:58+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:39:58+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:40:01+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:40:00,747 516 140445849982720 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:40:01+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:40:01+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:40:27+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:40:26,685 516 140445866768128 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:40:27+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:40:27+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:40:38+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:40:37,660 516 140445991700224 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:40:38+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:40:38+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:40:42+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:40:41,383 516 140445891946240 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:40:42+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:40:42+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:40:57+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:40:57,002 516 140445875160832 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:40:57+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:40:57+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:41:18+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:41:18,257 516 140445883553536 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:41:18+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:41:18+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:41:22+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:41:21,698 516 140445858375424 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:41:22+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:41:22+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:41:28+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:41:27,367 516 140445900338944 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:41:28+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:41:28+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:42:00+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:41:59,598 516 140445849982720 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:42:00+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:42:00+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:42:01+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:42:00,504 516 140445866768128 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:42:01+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:42:01+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:42:04+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:42:03,631 516 140445991700224 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:42:04+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:42:04+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:42:30+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:42:29,881 516 140445891946240 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:42:30+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:42:30+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:42:39+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:42:38,544 516 140445875160832 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:42:39+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:42:39+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:42:42+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:42:41,711 516 140445883553536 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:42:42+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:42:42+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:43:01+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:43:00,198 516 140445858375424 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:43:01+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:43:01+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:43:19+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:43:18,638 516 140445900338944 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:43:19+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:43:19+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:43:22+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:43:21,826 516 140445849982720 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:43:22+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:43:22+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:43:31+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:43:30,615 516 140445866768128 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:43:31+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:43:31+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:43:59+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:43:58,709 516 140445991700224 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:43:59+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:43:59+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:43:59+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:43:59,041 516 140445891946240 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:43:59+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:43:59+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:44:02+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:44:01,957 516 140445875160832 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:44:02+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:44:02+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:44:31+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:44:31,247 516 140445883553536 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:44:31+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:44:31+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:44:39+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:44:38,851 516 140445858375424 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:44:39+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:44:39+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:44:43+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:44:42,290 516 140445900338944 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:44:43+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:44:43+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:45:01+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:45:01,555 516 140445849982720 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:45:01+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:45:01+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:45:19+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:45:19,193 516 140445866768128 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:45:19+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:45:19+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:45:23+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:45:22,349 516 140445991700224 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:45:23+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:45:23+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:45:31+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:45:31,839 516 140445891946240 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:45:31+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:45:31+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:45:59+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:45:59,225 516 140445875160832 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:45:59+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:45:59+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:46:01+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:46:00,236 516 140445883553536 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:46:01+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:46:01+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:46:03+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:46:02,357 516 140445858375424 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:46:03+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:46:03+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:46:32+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:46:32,434 516 140445900338944 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:46:32+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:46:32+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:46:39+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:46:39,176 516 140445849982720 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:46:39+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:46:39+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:46:43+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:46:43,305 516 140445866768128 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:46:43+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:46:43+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:47:02+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:47:02,721 516 140445991700224 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:47:02+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:47:02+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:47:20+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:47:20,237 516 140445891946240 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:47:20+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:47:20+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:47:23+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:47:23,560 516 140445875160832 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:47:23+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:47:23+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:47:33+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:47:33,108 516 140445883553536 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:47:33+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:47:33+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:48:00+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:48:00,473 516 140445858375424 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:48:00+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:48:00+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:48:01+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:48:01,585 516 140445900338944 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:48:01+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:48:01+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:48:04+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:48:04,086 516 140445849982720 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:48:04+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:48:04+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:48:34+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:48:33,936 516 140445866768128 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:48:34+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:48:34+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:48:41+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:48:40,954 516 140445991700224 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:48:41+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:48:41+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:48:44+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:48:44,273 516 140445891946240 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:48:44+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:48:44+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:49:04+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:49:04,227 516 140445875160832 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:49:04+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:49:04+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:49:21+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:49:21,149 516 140445883553536 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:49:21+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:49:21+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:49:25+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:49:25,365 516 140445858375424 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:49:25+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:49:25+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:49:34+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:49:34,503 516 140445900338944 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:49:34+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:49:34+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:50:02+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:50:02,329 516 140445849982720 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:50:02+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:50:02+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:50:03+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:50:02,918 516 140445866768128 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:50:03+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:50:03+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:50:06+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:50:05,941 516 140445991700224 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:50:06+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:50:06+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:50:35+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:50:35,212 516 140445891946240 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:50:35+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:50:35+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:50:43+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:50:42,901 516 140445875160832 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:50:43+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:50:43+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:50:46+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:50:46,065 516 140445883553536 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:50:46+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:50:46+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:51:04+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:51:05,568 516 140445858375424 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:51:04+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:51:04+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:51:23+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:51:22,974 516 140445900338944 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:51:23+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:51:23+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:51:26+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:51:26,178 516 140445849982720 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:51:26+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:51:26+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:51:34+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:51:35,882 516 140445866768128 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:51:34+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:51:34+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:52:03+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:52:03,150 516 140445991700224 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:52:03+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:52:03+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:52:04+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:52:04,299 516 140445891946240 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:52:04+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:52:04+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:52:07+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:52:06,613 516 140445875160832 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:52:07+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:52:07+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:52:34+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:52:34,605 516 140445883553536 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:52:34+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:52:34+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:52:44+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:52:43,537 516 140445858375424 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:52:44+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:52:44+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:52:48+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:52:47,725 516 140445900338944 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:52:48+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:52:48+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:53:05+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:53:04,925 516 140445849982720 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:53:05+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:53:05+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:53:29+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:53:29,598 516 140445866768128 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:53:29+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:53:29+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:53:33+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:53:32,934 516 140445991700224 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:53:33+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:53:33+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:53:35+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:53:35,215 516 140445891946240 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:53:35+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:53:35+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:54:06+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:54:05,515 516 140445875160832 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:54:06+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:54:06+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:54:09+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:54:09,772 516 140445883553536 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:54:09+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:54:09+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:54:13+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:54:13,110 516 140445858375424 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:54:13+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:54:13+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:54:36+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:54:35,868 516 140445900338944 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:54:36+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:54:36+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:54:50+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:54:50,019 516 140445849982720 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:54:50+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:54:50+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:54:53+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:54:53,342 516 140445866768128 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:54:53+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:54:53+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:55:06+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:55:06,187 516 140445991700224 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:55:06+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:55:06+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:55:30+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:55:30,256 516 140445891946240 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:55:30+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:55:30+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:55:34+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:55:33,511 516 140445875160832 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:55:34+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:55:34+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:55:37+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:55:36,531 516 140445883553536 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:55:37+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:55:37+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:56:07+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:56:06,876 516 140445858375424 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:56:07+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:56:07+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:56:11+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:56:10,367 516 140445900338944 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:56:11+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:56:11+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:56:14+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:56:13,830 516 140445849982720 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:56:14+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:56:14+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:56:37+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:56:37,182 516 140445866768128 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:56:37+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:56:37+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:56:51+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:56:50,773 516 140445991700224 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:56:51+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:56:51+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:56:54+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:56:54,204 516 140445891946240 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:56:54+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:56:54+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:57:08+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:57:07,478 516 140445875160832 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:57:08+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:57:08+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:57:31+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:57:31,137 516 140445883553536 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:57:31+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:57:31+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:57:34+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:57:34,794 516 140445858375424 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:57:34+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:57:34+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:57:38+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:57:37,881 516 140445900338944 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:57:38+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:57:38+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:58:09+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:58:08,255 516 140445849982720 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:58:09+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:58:09+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:58:12+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:58:11,692 516 140445866768128 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:58:12+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:58:12+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:58:15+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:58:14,998 516 140445991700224 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:58:15+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:58:15+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:58:39+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:58:38,541 516 140445891946240 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:58:39+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:58:39+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:58:52+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:58:51,935 516 140445875160832 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:58:52+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:58:52+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:58:56+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:58:55,410 516 140445883553536 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:58:56+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:58:56+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:59:09+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:59:08,871 516 140445858375424 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:59:09+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:59:09+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:59:33+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:59:32,300 516 140445900338944 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:59:33+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:59:33+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:59:36+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:59:35,937 516 140445849982720 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:59:36+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:59:36+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T04:59:40+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 13:59:39,263 516 140445866768128 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T04:59:40+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T04:59:40+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:00:10+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:00:09,613 516 140445991700224 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:00:10+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:00:10+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:00:13+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:00:12,899 516 140445891946240 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:00:13+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:00:13+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:00:17+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:00:16,244 516 140445875160832 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:00:17+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:00:17+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:00:42+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:00:41,965 516 140445883553536 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:00:42+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:00:42+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:00:55+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:00:55,160 516 140445858375424 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:00:55+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:00:55+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:00:58+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:00:58,708 516 140445900338944 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:00:58+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:00:58+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:01:13+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:01:12,346 516 140445849982720 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:01:13+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:01:13+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:01:33+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:01:33,790 516 140445866768128 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:01:33+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:01:33+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:01:37+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:01:37,443 516 140445991700224 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:01:37+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:01:37+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:01:40+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:01:40,701 516 140445891946240 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:01:40+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:01:40+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:02:13+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:02:12,874 516 140445875160832 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:02:13+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:02:13+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:02:14+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:02:14,582 516 140445883553536 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:02:14+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:02:14+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:02:17+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:02:17,727 516 140445858375424 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:02:17+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:02:17+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:02:43+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:02:43,192 516 140445900338944 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:02:43+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:02:43+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:02:54+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:02:54,604 516 140445849982720 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:02:54+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:02:54+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:02:58+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:02:57,978 516 140445866768128 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:02:58+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:02:58+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:03:13+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:03:13,483 516 140445991700224 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:03:13+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:03:13+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:03:35+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:03:35,367 516 140445891946240 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:03:35+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:03:35+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:03:40+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:03:40,503 516 140445875160832 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:03:40+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:03:40+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:03:42+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:03:41,932 516 140445883553536 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:03:42+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:03:42+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:04:14+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:04:14,163 516 140445858375424 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:04:14+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:04:14+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:04:17+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:04:17,392 516 140445900338944 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:04:17+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:04:17+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:04:21+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:04:21,344 516 140445849982720 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:04:21+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:04:21+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:04:44+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:04:44,478 516 140445866768128 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:04:44+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:04:44+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:04:58+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:04:58,237 516 140445991700224 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:04:58+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:04:58+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:05:02+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:05:01,852 516 140445891946240 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:05:02+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:05:02+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:05:13+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:05:12,909 516 140445875160832 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:05:13+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:05:13+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:05:39+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:05:38,803 516 140445883553536 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:05:39+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:05:39+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:05:42+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:05:41,944 516 140445858375424 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:05:42+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:05:42+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:05:43+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:05:43,318 516 140445900338944 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:05:43+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:05:43+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:06:14+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:06:13,661 516 140445849982720 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:06:14+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:06:14+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:06:19+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:06:18,826 516 140445866768128 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:06:19+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:06:19+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:06:22+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:06:21,976 516 140445991700224 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:06:22+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:06:22+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:06:44+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:06:43,942 516 140445891946240 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:06:44+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:06:44+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:06:59+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:06:58,873 516 140445875160832 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:06:59+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:06:59+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:07:02+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:07:02,336 516 140445883553536 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:07:02+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:07:02+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:07:14+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:07:14,258 516 140445858375424 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:07:14+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:07:14+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:07:39+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:07:39,207 516 140445900338944 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:07:39+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:07:39+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:07:42+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:07:42,483 516 140445849982720 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:07:42+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:07:42+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:07:45+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:07:44,584 516 140445866768128 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:07:45+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:07:45+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:08:15+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:08:14,890 516 140445991700224 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:08:15+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:08:15+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:08:19+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:08:19,360 516 140445891946240 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:08:19+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:08:19+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:08:23+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:08:22,920 516 140445875160832 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:08:23+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:08:23+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:08:45+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:08:45,170 516 140445883553536 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:08:45+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:08:45+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:09:00+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:08:59,874 516 140445858375424 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:09:00+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:09:00+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:09:03+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:09:03,276 516 140445900338944 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:09:03+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:09:03+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:09:16+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:09:15,492 516 140445849982720 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:09:16+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:09:16+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:09:41+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:09:40,794 516 140445866768128 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:09:41+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:09:41+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:09:45+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:09:45,193 516 140445991700224 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:09:45+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:09:45+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:09:46+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:09:45,934 516 140445891946240 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:09:46+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:09:46+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:10:16+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:10:16,268 516 140445875160832 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:10:16+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:10:16+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:10:22+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:10:22,171 516 140445883553536 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:10:22+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:10:22+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:10:26+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:10:25,625 516 140445858375424 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:10:26+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:10:26+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:10:47+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:10:46,670 516 140445900338944 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:10:47+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:10:47+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:11:03+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:11:02,537 516 140445849982720 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:11:03+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:11:03+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:11:06+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:11:06,054 516 140445866768128 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:11:06+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:11:06+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:11:19+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:11:18,965 516 140445991700224 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:11:19+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:11:19+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:11:43+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:11:42,953 516 140445891946240 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:11:43+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:11:43+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:11:46+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:11:46,153 516 140445875160832 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:11:46+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:11:46+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:11:48+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:11:47,379 516 140445883553536 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:11:48+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:11:48+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:12:18+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:12:17,698 516 140445858375424 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:12:18+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:12:18+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:12:23+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:12:23,063 516 140445900338944 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:12:23+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:12:23+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:12:27+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:12:26,374 516 140445849982720 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:12:27+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:12:27+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:12:48+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:12:48,014 516 140445866768128 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:12:48+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:12:48+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:13:04+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:13:03,264 516 140445991700224 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:13:04+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:13:04+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:13:07+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:13:06,772 516 140445891946240 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:13:07+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:13:07+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:13:20+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:13:20,233 516 140445875160832 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:13:20+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:13:20+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:13:44+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:13:43,682 516 140445883553536 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:13:44+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:13:44+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:13:48+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:13:47,190 516 140445858375424 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:13:48+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:13:48+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:13:49+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:13:48,910 516 140445900338944 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:13:49+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:13:49+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:14:20+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:14:19,366 516 140445849982720 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:14:20+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:14:20+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:14:25+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:14:24,136 516 140445866768128 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:14:25+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:14:25+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:14:28+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:14:27,417 516 140445991700224 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:14:28+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:14:28+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:14:50+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:14:49,723 516 140445891946240 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:14:50+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:14:50+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:15:04+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:15:04,309 516 140445875160832 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:15:04+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:15:04+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:15:08+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:15:08,079 516 140445883553536 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:15:08+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:15:08+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:15:22+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:15:21,979 516 140445858375424 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:15:22+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:15:22+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:15:45+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:15:45,175 516 140445900338944 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:15:45+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:15:45+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:15:48+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:15:48,446 516 140445849982720 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:15:48+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:15:48+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:15:50+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:15:50,428 516 140445866768128 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:15:50+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:15:50+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:16:20+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:16:20,742 516 140445991700224 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:16:20+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:16:20+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:16:25+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:16:25,339 516 140445891946240 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:16:25+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:16:25+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:16:28+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:16:28,813 516 140445875160832 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:16:28+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:16:28+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:16:51+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:16:51,047 516 140445883553536 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:16:51+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:16:51+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:17:05+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:17:05,711 516 140445858375424 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:17:05+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:17:05+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:17:09+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:17:09,036 516 140445900338944 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:17:09+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:17:09+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:17:23+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:17:23,345 516 140445849982720 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:17:23+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:17:23+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:17:46+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:17:45,936 516 140445866768128 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:17:46+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:17:46+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:17:49+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:17:49,321 516 140445991700224 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:17:49+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:17:49+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:17:52+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:17:51,792 516 140445891946240 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:17:52+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:17:52+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:18:22+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:18:22,156 516 140445875160832 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:18:22+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:18:22+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:18:26+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:18:26,239 516 140445883553536 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:18:26+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:18:26+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:18:29+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:18:29,348 516 140445858375424 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:18:29+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:18:29+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:18:52+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:18:52,468 516 140445900338944 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:18:52+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:18:52+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:19:06+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:19:06,234 516 140445849982720 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:19:06+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:19:06+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:19:10+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:19:10,037 516 140445866768128 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:19:10+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:19:10+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:19:25+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:19:24,688 516 140445991700224 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:19:25+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:19:25+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:19:47+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:19:47,161 516 140445891946240 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:19:47+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:19:47+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:19:50+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:19:50,519 516 140445875160832 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:19:50+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:19:50+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:19:53+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:19:53,073 516 140445883553536 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:19:53+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:19:53+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:20:23+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:20:23,346 516 140445858375424 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:20:23+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:20:23+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:20:27+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:20:27,416 516 140445900338944 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:20:27+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:20:27+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:20:31+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:20:30,639 516 140445849982720 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:20:31+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:20:31+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:20:54+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:20:53,634 516 140445866768128 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:20:54+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:20:54+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:21:08+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:21:08,356 516 140445991700224 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:21:08+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:21:08+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:21:13+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:21:12,724 516 140445891946240 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:21:13+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:21:13+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:21:26+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:21:25,821 516 140445875160832 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:21:26+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:21:26+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:21:50+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:21:49,634 516 140445883553536 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:21:50+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:21:50+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:21:53+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:21:53,003 516 140445858375424 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:21:53+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:21:53+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:21:54+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:21:54,190 516 140445900338944 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:21:54+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:21:54+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:22:27+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:22:26,469 516 140445849982720 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:22:27+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:22:27+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:22:32+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:22:31,876 516 140445866768128 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:22:32+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:22:32+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:22:35+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:22:35,194 516 140445991700224 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:22:35+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:22:35+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:22:55+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:22:54,894 516 140445891946240 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:22:55+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:22:55+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:23:10+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:23:10,192 516 140445875160832 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:23:10+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:23:10+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:23:17+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:23:16,739 516 140445883553536 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:23:17+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:23:17+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:23:27+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:23:27,120 516 140445858375424 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:23:27+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:23:27+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:23:56+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:23:55,556 516 140445900338944 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:23:56+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:23:56+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:23:58+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:23:57,799 516 140445849982720 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:23:58+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:23:58+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:23:59+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:23:58,882 516 140445866768128 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:23:59+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:23:59+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:24:26+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:24:26,249 516 140445991700224 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:24:26+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:24:26+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:24:34+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:24:33,852 516 140445891946240 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:24:34+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:24:34+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:24:37+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:24:37,149 516 140445875160832 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:24:37+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:24:37+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:24:59+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:24:58,585 516 140445883553536 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:24:59+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:24:59+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:25:14+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:25:14,042 516 140445858375424 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:25:14+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:25:14+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:25:18+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:25:17,401 516 140445900338944 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:25:18+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:25:18+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:25:29+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:25:28,937 516 140445849982720 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:25:29+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:25:29+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:25:55+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:25:54,373 516 140445866768128 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:25:55+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:25:55+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:25:58+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:25:57,346 516 140445991700224 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:25:58+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:25:58+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:25:58+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:25:57,674 516 140445891946240 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:25:58+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:25:58+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:26:30+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:26:29,596 516 140445875160832 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:26:30+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:26:30+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:26:37+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:26:36,542 516 140445883553536 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:26:37+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:26:37+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:26:40+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:26:39,832 516 140445858375424 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:26:40+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:26:40+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:27:00+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:26:59,930 516 140445900338944 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:27:00+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:27:00+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:27:15+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:27:14,751 516 140445849982720 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:27:15+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:27:15+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:27:18+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:27:18,082 516 140445866768128 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:27:18+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:27:18+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:27:32+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:27:32,207 516 140445991700224 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:27:32+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:27:32+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:27:55+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:27:55,268 516 140445891946240 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:27:55+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:27:55+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:27:59+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:27:58,787 516 140445875160832 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:27:59+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:27:59+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:28:01+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:28:00,745 516 140445883553536 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:28:01+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:28:01+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:28:31+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:28:31,022 516 140445858375424 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:28:31+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:28:31+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:28:36+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:28:35,709 516 140445900338944 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:28:36+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:28:36+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:28:39+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:28:38,945 516 140445849982720 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:28:39+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:28:39+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:29:03+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:29:03,810 516 140445866768128 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:29:03+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:29:03+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:29:16+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:29:15,849 516 140445991700224 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:29:16+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:29:16+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:29:20+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:29:19,058 516 140445891946240 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:29:20+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:29:20+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:29:34+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:29:34,171 516 140445875160832 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:29:34+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:29:34+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:29:56+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:29:56,000 516 140445883553536 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:29:56+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:29:56+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:29:59+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:29:59,242 516 140445858375424 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:29:59+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:29:59+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:30:02+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:30:02,559 516 140445900338944 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:30:02+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:30:02+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:30:33+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:30:32,952 516 140445849982720 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:30:33+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:30:33+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:30:36+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:30:36,246 516 140445866768128 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:30:36+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:30:36+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:30:39+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:30:39,522 516 140445991700224 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:30:39+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:30:39+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:31:05+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:31:05,282 516 140445891946240 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:31:05+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:31:05+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:31:16+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:31:16,493 516 140445875160832 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:31:16+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:31:16+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:31:20+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:31:19,905 516 140445883553536 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:31:20+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:31:20+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:31:35+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:31:35,580 516 140445858375424 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:31:35+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:31:35+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:31:57+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:31:56,884 516 140445900338944 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:31:57+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:31:57+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:32:00+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:32:00,172 516 140445849982720 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:32:00+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:32:00+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:32:04+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:32:03,971 516 140445866768128 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:32:04+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:32:04+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:32:34+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:32:34,301 516 140445991700224 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:32:34+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:32:34+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:32:37+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:32:37,581 516 140445891946240 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:32:37+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:32:37+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:32:40+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:32:40,729 516 140445875160832 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:32:40+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:32:40+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:33:06+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:33:06,586 516 140445883553536 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:33:06+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:33:06+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:33:19+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:33:19,641 516 140445858375424 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:33:19+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:33:19+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:33:23+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:33:22,911 516 140445900338944 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:33:23+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:33:23+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:33:37+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:33:37,021 516 140445849982720 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:33:37+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:33:37+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:33:58+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:33:57,866 516 140445866768128 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:33:58+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:33:58+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:34:01+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:34:01,121 516 140445991700224 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:34:01+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:34:01+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:34:05+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:34:05,388 516 140445891946240 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:34:05+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:34:05+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:34:35+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:34:35,687 516 140445875160832 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:34:35+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:34:35+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:34:38+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:34:38,010 516 140445883553536 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:34:38+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:34:38+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:34:41+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:34:41,306 516 140445858375424 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:34:41+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:34:41+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:35:08+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:35:07,901 516 140445900338944 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:35:08+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:35:08+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:35:18+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:35:18,154 516 140445849982720 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:35:18+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:35:18+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:35:21+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:35:21,527 516 140445866768128 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:35:21+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:35:21+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:35:38+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:35:38,240 516 140445991700224 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:35:38+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:35:38+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:35:58+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:35:58,416 516 140445891946240 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:35:58+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:35:58+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:36:02+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:36:01,658 516 140445875160832 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:36:02+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:36:02+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:36:07+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:36:06,675 516 140445883553536 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:36:07+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:36:07+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:36:37+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:36:36,965 516 140445858375424 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:36:37+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:36:37+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:36:39+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:36:38,537 516 140445900338944 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:36:39+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:36:39+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:36:42+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:36:41,800 516 140445849982720 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:36:42+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:36:42+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:37:09+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:37:09,183 516 140445866768128 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:37:09+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:37:09+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:37:21+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:37:20,605 516 140445991700224 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:37:21+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:37:21+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:37:24+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:37:23,683 516 140445891946240 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:37:24+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:37:24+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:37:40+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:37:39,521 516 140445875160832 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:37:40+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:37:40+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:37:59+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:37:58,639 516 140445883553536 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:37:59+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:37:59+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:38:02+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:38:02,038 516 140445858375424 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:38:02+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:38:02+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:38:08+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:38:08,062 516 140445900338944 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:38:08+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:38:08+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:38:39+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:38:38,388 516 140445849982720 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:38:39+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:38:39+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:38:39+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:38:38,985 516 140445866768128 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:38:39+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:38:39+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:38:42+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:38:42,362 516 140445991700224 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:38:42+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:38:42+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:39:09+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:39:08,936 516 140445891946240 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:39:09+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:39:09+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:39:19+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:39:19,260 516 140445875160832 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:39:19+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:39:19+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:39:23+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:39:22,614 516 140445883553536 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:39:23+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:39:23+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:39:42+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:39:41,286 516 140445858375424 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:39:42+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:39:42+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:40:00+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:39:59,473 516 140445900338944 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:40:00+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:40:00+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:40:03+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:40:02,637 516 140445849982720 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:40:03+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:40:03+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:40:12+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:40:11,626 516 140445866768128 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:40:12+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:40:12+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:40:40+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:40:39,535 516 140445991700224 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:40:40+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:40:40+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:40:40+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:40:40,061 516 140445891946240 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:40:40+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:40:40+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:40:43+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:40:42,947 516 140445875160832 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:40:43+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:40:43+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:41:10+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:41:10,333 516 140445883553536 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:41:10+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:41:10+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:41:20+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:41:19,865 516 140445858375424 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:41:20+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:41:20+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:41:24+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:41:23,217 516 140445900338944 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:41:24+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:41:24+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:41:42+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:41:42,578 516 140445849982720 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:41:42+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:41:42+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:42:00+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:42:00,171 516 140445866768128 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:42:00+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:42:00+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:42:04+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:42:03,534 516 140445991700224 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:42:04+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:42:04+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:42:13+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:42:13,014 516 140445891946240 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:42:13+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:42:13+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:42:40+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:42:40,404 516 140445875160832 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:42:40+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:42:40+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:42:42+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:42:41,411 516 140445883553536 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:42:42+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:42:42+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:42:44+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:42:43,686 516 140445858375424 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:42:44+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:42:44+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:43:12+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:43:11,712 516 140445900338944 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:43:12+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:43:12+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:43:20+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:43:20,574 516 140445849982720 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:43:20+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:43:20+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:43:24+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:43:23,760 516 140445866768128 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:43:24+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:43:24+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:43:44+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:43:43,981 516 140445991700224 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:43:44+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:43:44+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:44:00+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:44:00,656 516 140445891946240 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:44:00+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:44:00+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:44:05+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:44:04,539 516 140445875160832 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:44:05+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:44:05+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:44:14+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:44:14,296 516 140445883553536 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:44:14+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:44:14+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:44:41+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:44:41,462 516 140445858375424 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:44:41+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:44:41+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:44:42+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:44:42,681 516 140445900338944 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:44:42+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:44:42+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:44:45+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:44:45,867 516 140445849982720 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:44:45+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:44:45+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:45:13+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:45:12,958 516 140445866768128 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:45:13+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:45:13+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:45:22+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:45:22,755 516 140445991700224 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:45:22+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:45:22+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:45:26+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:45:25,996 516 140445891946240 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:45:26+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:45:26+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:45:45+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:45:45,256 516 140445875160832 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:45:45+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:45:45+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:46:03+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:46:02,926 516 140445883553536 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:46:03+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:46:03+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:46:06+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:46:06,291 516 140445858375424 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:46:06+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:46:06+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:46:15+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:46:15,555 516 140445900338944 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:46:15+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:46:15+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:46:43+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:46:43,201 516 140445849982720 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:46:43+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:46:43+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:46:44+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:46:43,923 516 140445866768128 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:46:44+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:46:44+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:46:46+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:46:46,433 516 140445991700224 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:46:46+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:46:46+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:47:14+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:47:14,202 516 140445891946240 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:47:14+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:47:14+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:47:23+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:47:23,430 516 140445875160832 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:47:23+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:47:23+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:47:27+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:47:26,795 516 140445883553536 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:47:27+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:47:27+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:47:46+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:47:46,435 516 140445858375424 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:47:46+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:47:46+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:48:04+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:48:03,720 516 140445900338944 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:48:04+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:48:04+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:48:07+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:48:06,978 516 140445849982720 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:48:07+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:48:07+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:48:17+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:48:16,749 516 140445866768128 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:48:17+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:48:17+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:48:44+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:48:43,890 516 140445991700224 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:48:44+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:48:44+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:48:45+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:48:45,132 516 140445891946240 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:48:45+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:48:45+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:48:47+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:48:47,441 516 140445875160832 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:48:47+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:48:47+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:49:15+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:49:15,412 516 140445883553536 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:49:15+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:49:15+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:49:24+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:49:24,325 516 140445858375424 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:49:24+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:49:24+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:49:27+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:49:27,563 516 140445900338944 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:49:27+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:49:27+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:49:48+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:49:47,611 516 140445849982720 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:49:48+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:49:48+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:50:04+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:50:04,422 516 140445866768128 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:50:04+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:50:04+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:50:08+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:50:07,708 516 140445991700224 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:50:08+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:50:08+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:50:18+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:50:17,949 516 140445891946240 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:50:18+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:50:18+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:50:45+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:50:44,558 516 140445875160832 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:50:45+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:50:45+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:50:46+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:50:46,307 516 140445883553536 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:50:46+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:50:46+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:50:48+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:50:47,768 516 140445858375424 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:50:48+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:50:48+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:51:17+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:51:16,591 516 140445900338944 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:51:17+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:51:17+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:51:25+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:51:24,626 516 140445849982720 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:51:25+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:51:25+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:51:28+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:51:27,863 516 140445866768128 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:51:28+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:51:28+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:51:49+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:51:48,854 516 140445991700224 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:51:49+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:51:49+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:52:05+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:52:04,777 516 140445891946240 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:52:05+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:52:05+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:52:08+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:52:08,048 516 140445875160832 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:52:08+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:52:08+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:52:19+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:52:19,116 516 140445883553536 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:52:19+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:52:19+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:52:45+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:52:44,943 516 140445858375424 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:52:45+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:52:45+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:52:48+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:52:47,515 516 140445900338944 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:52:48+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:52:48+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:52:48+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:52:48,274 516 140445849982720 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:52:48+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:52:48+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:53:20+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:53:19,730 516 140445866768128 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:53:20+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:53:20+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:53:25+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:53:25,114 516 140445991700224 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:53:25+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:53:25+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:53:29+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:53:28,400 516 140445891946240 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:53:29+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:53:29+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:53:50+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:53:50,071 516 140445875160832 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:53:50+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:53:50+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:54:05+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:54:05,268 516 140445883553536 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:54:05+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:54:05+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:54:10+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:54:09,580 516 140445858375424 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:54:10+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:54:10+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:54:21+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:54:20,383 516 140445900338944 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:54:21+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:54:21+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:54:47+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:54:46,477 516 140445849982720 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:54:47+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:54:47+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:54:49+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:54:48,780 516 140445866768128 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:54:49+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:54:49+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}
+2019-12-17T05:54:50+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"1217 14:54:50,058 516 140445991700224 hx80aa95  DEBUG peer_outer_service.py(227) Peer GetStatus : request: \"\"","hostname":"68274c511de9"}
+2019-12-17T05:54:50+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"channel: \"icon_dex\"","hostname":"68274c511de9"}
+2019-12-17T05:54:50+00:00	P-Rep-loopchain.log.loopchain.citizen.log	{"log":"","hostname":"68274c511de9"}

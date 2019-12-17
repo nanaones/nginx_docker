@@ -1,0 +1,938 @@
+2019-12-17T04:25:02+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:25:02.277] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T04:25:02+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:25:02.286] GENESIS_DATA_PATH=/prep_peer/conf/genesis.json ","hostname":"68274c511de9"}
+2019-12-17T04:25:03+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:25:02.303] P-REP package version info - prep-node_1911121115x323d60 ","hostname":"68274c511de9"}
+2019-12-17T04:25:04+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:25:03.314] iconcommons             1.1.2    ","hostname":"68274c511de9"}
+2019-12-17T04:25:04+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"iconrpcserver           1.4.5    ","hostname":"68274c511de9"}
+2019-12-17T04:25:04+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"iconsdk                 1.2.0    ","hostname":"68274c511de9"}
+2019-12-17T04:25:04+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"iconservice             1.5.18   ","hostname":"68274c511de9"}
+2019-12-17T04:25:04+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"loopchain               2.4.16    ","hostname":"68274c511de9"}
+2019-12-17T04:25:04+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:25:03.328] NETWORK_ENV=PREP-TestNet, SERVICE=zicon, ENDPOINT_URL=https://zicon.net.solidwallet.io, SERVICE_API = https://zicon.net.solidwallet.io/api/v3 ","hostname":"68274c511de9"}
+2019-12-17T04:25:06+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:25:05.836] This node is SubPRep - 0x1 ","hostname":"68274c511de9"}
+2019-12-17T04:25:23+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:25:22.763] Network: PREP-TestNet / RUN_MODE: '' / LOG_OUTPUT_TYPE: file|console ","hostname":"68274c511de9"}
+2019-12-17T04:25:23+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:25:22.815] [OK] CHECK=0, Run loop-peer and loop-channel start -> '' ","hostname":"68274c511de9"}
+2019-12-17T04:25:23+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:25:22.880] [OK] CHECK=0, Run iconservice start! ","hostname":"68274c511de9"}
+2019-12-17T04:25:23+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:25:22.942] [OK] CHECK=0, Run iconrpcserver start! ","hostname":"68274c511de9"}
+2019-12-17T04:25:10+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:25:09.326] == [OK] Write json file -> /prep_peer/conf/configure.json, 1.6 KB","hostname":"68274c511de9"}
+2019-12-17T04:25:10+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"Alive peer_list=['13.235.224.125:9000', '13.126.189.189:9000', '13.233.218.239:9000', '13.235.208.173:9000', '13.235.163.199:9000'], fastpeer_domains=['https://zicon.net.solidwallet.io', 'fastpeer0.icon:9000', 'fastpeer1.icon:9000', 'fastpeer2.icon:9000', 'fastpeer3.icon:9000', 'fastpeer4.icon:9000'] ","hostname":"68274c511de9"}
+2019-12-17T04:25:10+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:25:09.336] CHANNEL_MANAGE_DATA not found - /prep_peer/conf/channel_manange_data.json ","hostname":"68274c511de9"}
+2019-12-17T04:25:10+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:25:09.543] START FASTEST MODE : NETWORK_NAME=ZiconPrepNet ","hostname":"68274c511de9"}
+2019-12-17T04:25:10+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:25:09.570] [PASS] Already file - /data/loopchain/ZiconPrepNet_BH1547673_data-20191217_1300.tar.gz ","hostname":"68274c511de9"}
+2019-12-17T04:24:54+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:24:53.480] Your IP: <!DOCTYPE html>","hostname":"68274c511de9"}
+2019-12-17T04:24:54+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"<html>","hostname":"68274c511de9"}
+2019-12-17T04:24:54+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"<head>","hostname":"68274c511de9"}
+2019-12-17T04:24:54+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">","hostname":"68274c511de9"}
+2019-12-17T04:24:54+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"<meta charset=\"utf-8\">","hostname":"68274c511de9"}
+2019-12-17T04:24:54+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"<title>Application Error</title>","hostname":"68274c511de9"}
+2019-12-17T04:24:54+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"<style media=\"screen\">","hostname":"68274c511de9"}
+2019-12-17T04:24:54+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"\t\t  html,body,iframe {","hostname":"68274c511de9"}
+2019-12-17T04:24:54+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"\t\t\tmargin: 0;","hostname":"68274c511de9"}
+2019-12-17T04:24:54+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"\t\t\tpadding: 0;","hostname":"68274c511de9"}
+2019-12-17T04:24:54+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"\t\t  }","hostname":"68274c511de9"}
+2019-12-17T04:24:54+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"\t\t  html,body {","hostname":"68274c511de9"}
+2019-12-17T04:24:54+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"\t\t\theight: 100%;","hostname":"68274c511de9"}
+2019-12-17T04:24:54+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"\t\t\toverflow: hidden;","hostname":"68274c511de9"}
+2019-12-17T04:24:54+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"\t\t  }","hostname":"68274c511de9"}
+2019-12-17T04:24:54+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"\t\t  iframe {","hostname":"68274c511de9"}
+2019-12-17T04:24:54+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"\t\t\twidth: 100%;","hostname":"68274c511de9"}
+2019-12-17T04:24:54+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"\t\t\theight: 100%;","hostname":"68274c511de9"}
+2019-12-17T04:24:54+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"\t\t\tborder: 0;","hostname":"68274c511de9"}
+2019-12-17T04:24:54+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"\t\t  }","hostname":"68274c511de9"}
+2019-12-17T04:24:54+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"\t\t</style>","hostname":"68274c511de9"}
+2019-12-17T04:24:54+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"</head>","hostname":"68274c511de9"}
+2019-12-17T04:24:54+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"<body>","hostname":"68274c511de9"}
+2019-12-17T04:24:54+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"<iframe src=\"//www.herokucdn.com/error-pages/application-error.html\"></iframe>","hostname":"68274c511de9"}
+2019-12-17T04:24:54+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"</body>","hostname":"68274c511de9"}
+2019-12-17T04:24:54+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"</html> ","hostname":"68274c511de9"}
+2019-12-17T04:24:54+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:24:53.506] RPC_PORT: 9000 / RPC_WORKER: 3  ","hostname":"68274c511de9"}
+2019-12-17T04:24:54+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:24:53.523] DEFAULT_PATH=/data/loopchain in Docker Container ","hostname":"68274c511de9"}
+2019-12-17T04:24:54+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:24:53.536] DEFAULT_LOG_PATH=/data/loopchain/log ","hostname":"68274c511de9"}
+2019-12-17T04:24:54+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:24:53.558] DEFAULT_STORAGE_PATH=/data/loopchain/.storage ","hostname":"68274c511de9"}
+2019-12-17T04:24:54+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:24:53.566] scoreRootPath=/data/loopchain/.score_data/score ","hostname":"68274c511de9"}
+2019-12-17T04:24:54+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:24:53.593] stateDbRootPath=/data/loopchain/.score_data/db ","hostname":"68274c511de9"}
+2019-12-17T04:24:54+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:24:53.615] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T04:25:31+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:25:30.382] Start Health check ... 30s, HEALTH_ENV_CHECK=true ","hostname":"68274c511de9"}
+2019-12-17T04:26:01+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:26:00.368] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:26:01+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:26:00.395] [ERROR] [FAIL] '/bin/loop' process down  ","hostname":"68274c511de9"}
+2019-12-17T04:26:01+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:26:00.417] [ERROR] [FAIL] 'channel' process down  ","hostname":"68274c511de9"}
+2019-12-17T04:26:01+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:26:00.443] [ERROR] [FAIL] 'icon_rc' process down  ","hostname":"68274c511de9"}
+2019-12-17T04:26:01+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:26:00.473] [ERROR] [FAIL] 'icon_service' process down  ","hostname":"68274c511de9"}
+2019-12-17T04:26:01+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:26:00.502] [ERROR] [FAIL] 'gunicorn' process down  ","hostname":"68274c511de9"}
+2019-12-17T04:26:01+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:26:00.528] [ERROR] [FAIL] 'rabbitmq-server' process down  ","hostname":"68274c511de9"}
+2019-12-17T04:26:01+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:26:00.554] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:26:04+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:26:03.627] == Alive peer_list=['13.235.224.125:9000', '13.235.140.194:9000', '13.126.189.189:9000', '13.235.172.118:9000', '13.235.208.173:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T04:26:04+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:26:03.640] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T04:26:04+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:26:03.684] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T04:26:13+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:26:12.384] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T04:26:41+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:26:40.455] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:26:41+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:26:40.480] [ERROR] [FAIL] '/bin/loop' process down  ","hostname":"68274c511de9"}
+2019-12-17T04:26:41+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:26:40.509] [ERROR] [FAIL] 'channel' process down  ","hostname":"68274c511de9"}
+2019-12-17T04:26:41+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:26:40.537] [ERROR] [FAIL] 'icon_rc' process down  ","hostname":"68274c511de9"}
+2019-12-17T04:26:41+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:26:40.565] [ERROR] [FAIL] 'icon_service' process down  ","hostname":"68274c511de9"}
+2019-12-17T04:26:41+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:26:40.588] [ERROR] [FAIL] 'gunicorn' process down  ","hostname":"68274c511de9"}
+2019-12-17T04:26:41+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:26:40.612] [ERROR] [FAIL] 'rabbitmq-server' process down  ","hostname":"68274c511de9"}
+2019-12-17T04:26:41+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:26:40.630] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:26:44+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:26:43.930] == Alive peer_list=['13.233.218.239:9000', '13.126.189.189:9000', '13.235.224.125:9000', '13.235.208.173:9000', '13.235.186.52:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T04:26:44+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:26:43.943] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T04:26:44+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:26:43.976] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T04:26:53+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:26:52.671] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T04:27:21+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:27:20.757] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:27:21+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:27:20.785] [ERROR] [FAIL] '/bin/loop' process down  ","hostname":"68274c511de9"}
+2019-12-17T04:27:21+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:27:20.804] [FAIL] (3/3) It will be terminated / reason: /bin/loop process down  ","hostname":"68274c511de9"}
+2019-12-17T04:27:23+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:27:22.648] Your IP: <!DOCTYPE html>","hostname":"68274c511de9"}
+2019-12-17T04:27:23+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"<html>","hostname":"68274c511de9"}
+2019-12-17T04:27:23+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"<head>","hostname":"68274c511de9"}
+2019-12-17T04:27:23+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">","hostname":"68274c511de9"}
+2019-12-17T04:27:23+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"<meta charset=\"utf-8\">","hostname":"68274c511de9"}
+2019-12-17T04:27:23+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"<title>Application Error</title>","hostname":"68274c511de9"}
+2019-12-17T04:27:23+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"<style media=\"screen\">","hostname":"68274c511de9"}
+2019-12-17T04:27:23+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"\t\t  html,body,iframe {","hostname":"68274c511de9"}
+2019-12-17T04:27:23+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"\t\t\tmargin: 0;","hostname":"68274c511de9"}
+2019-12-17T04:27:23+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"\t\t\tpadding: 0;","hostname":"68274c511de9"}
+2019-12-17T04:27:23+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"\t\t  }","hostname":"68274c511de9"}
+2019-12-17T04:27:23+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"\t\t  html,body {","hostname":"68274c511de9"}
+2019-12-17T04:27:23+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"\t\t\theight: 100%;","hostname":"68274c511de9"}
+2019-12-17T04:27:23+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"\t\t\toverflow: hidden;","hostname":"68274c511de9"}
+2019-12-17T04:27:23+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"\t\t  }","hostname":"68274c511de9"}
+2019-12-17T04:27:23+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"\t\t  iframe {","hostname":"68274c511de9"}
+2019-12-17T04:27:23+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"\t\t\twidth: 100%;","hostname":"68274c511de9"}
+2019-12-17T04:27:23+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"\t\t\theight: 100%;","hostname":"68274c511de9"}
+2019-12-17T04:27:23+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"\t\t\tborder: 0;","hostname":"68274c511de9"}
+2019-12-17T04:27:23+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"\t\t  }","hostname":"68274c511de9"}
+2019-12-17T04:27:23+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"\t\t</style>","hostname":"68274c511de9"}
+2019-12-17T04:27:23+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"</head>","hostname":"68274c511de9"}
+2019-12-17T04:27:23+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"<body>","hostname":"68274c511de9"}
+2019-12-17T04:27:23+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"<iframe src=\"//www.herokucdn.com/error-pages/application-error.html\"></iframe>","hostname":"68274c511de9"}
+2019-12-17T04:27:23+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"</body>","hostname":"68274c511de9"}
+2019-12-17T04:27:23+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"</html> ","hostname":"68274c511de9"}
+2019-12-17T04:27:23+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:27:22.659] RPC_PORT: 9000 / RPC_WORKER: 3  ","hostname":"68274c511de9"}
+2019-12-17T04:27:23+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:27:22.666] DEFAULT_PATH=/data/loopchain in Docker Container ","hostname":"68274c511de9"}
+2019-12-17T04:27:23+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:27:22.678] DEFAULT_LOG_PATH=/data/loopchain/log ","hostname":"68274c511de9"}
+2019-12-17T04:27:23+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:27:22.692] DEFAULT_STORAGE_PATH=/data/loopchain/.storage ","hostname":"68274c511de9"}
+2019-12-17T04:27:23+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:27:22.701] scoreRootPath=/data/loopchain/.score_data/score ","hostname":"68274c511de9"}
+2019-12-17T04:27:23+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:27:22.708] stateDbRootPath=/data/loopchain/.score_data/db ","hostname":"68274c511de9"}
+2019-12-17T04:27:23+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:27:22.715] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T04:27:32+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:27:31.358] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T04:27:32+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:27:31.375] GENESIS_DATA_PATH=/prep_peer/conf/genesis.json ","hostname":"68274c511de9"}
+2019-12-17T04:27:32+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:27:31.388] P-REP package version info - prep-node_1911121115x323d60 ","hostname":"68274c511de9"}
+2019-12-17T04:27:32+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:27:31.878] iconcommons             1.1.2    ","hostname":"68274c511de9"}
+2019-12-17T04:27:32+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"iconrpcserver           1.4.5    ","hostname":"68274c511de9"}
+2019-12-17T04:27:32+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"iconsdk                 1.2.0    ","hostname":"68274c511de9"}
+2019-12-17T04:27:32+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"iconservice             1.5.18   ","hostname":"68274c511de9"}
+2019-12-17T04:27:32+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"loopchain               2.4.16    ","hostname":"68274c511de9"}
+2019-12-17T04:27:32+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:27:31.887] NETWORK_ENV=PREP-TestNet, SERVICE=zicon, ENDPOINT_URL=https://zicon.net.solidwallet.io, SERVICE_API = https://zicon.net.solidwallet.io/api/v3 ","hostname":"68274c511de9"}
+2019-12-17T04:27:35+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:27:34.138] This node is SubPRep - 0x1 ","hostname":"68274c511de9"}
+2019-12-17T04:27:38+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:27:37.502] == [OK] Write json file -> /prep_peer/conf/configure.json, 1.6 KB","hostname":"68274c511de9"}
+2019-12-17T04:27:38+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"Alive peer_list=['13.126.189.189:9000', '13.235.163.199:9000', '13.233.218.239:9000', '13.235.208.173:9000', '13.235.224.125:9000'], fastpeer_domains=['https://zicon.net.solidwallet.io', 'fastpeer0.icon:9000', 'fastpeer1.icon:9000', 'fastpeer2.icon:9000', 'fastpeer3.icon:9000', 'fastpeer4.icon:9000'] ","hostname":"68274c511de9"}
+2019-12-17T04:27:38+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:27:37.523] CHANNEL_MANAGE_DATA not found - /prep_peer/conf/channel_manange_data.json ","hostname":"68274c511de9"}
+2019-12-17T04:27:38+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:27:37.751] START FASTEST MODE : NETWORK_NAME=ZiconPrepNet ","hostname":"68274c511de9"}
+2019-12-17T04:27:38+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:27:37.796] [PASS] Already file - /data/loopchain/ZiconPrepNet_BH1547673_data-20191217_1300.tar.gz ","hostname":"68274c511de9"}
+2019-12-17T04:27:44+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:27:43.850] Network: PREP-TestNet / RUN_MODE: '' / LOG_OUTPUT_TYPE: file|console ","hostname":"68274c511de9"}
+2019-12-17T04:27:44+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:27:43.858] [OK] CHECK=0, Run loop-peer and loop-channel start -> '' ","hostname":"68274c511de9"}
+2019-12-17T04:27:44+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:27:43.867] [OK] CHECK=0, Run iconservice start! ","hostname":"68274c511de9"}
+2019-12-17T04:27:44+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:27:43.893] [OK] CHECK=0, Run iconrpcserver start! ","hostname":"68274c511de9"}
+2019-12-17T04:27:47+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:27:46.971] Start Health check ... 30s, HEALTH_ENV_CHECK=true ","hostname":"68274c511de9"}
+2019-12-17T04:28:15+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:28:15.057] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:28:15+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:28:15.073] [ERROR] [FAIL] '/bin/loop' process down  ","hostname":"68274c511de9"}
+2019-12-17T04:28:15+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:28:15.097] [ERROR] [FAIL] 'channel' process down  ","hostname":"68274c511de9"}
+2019-12-17T04:28:15+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:28:15.121] [ERROR] [FAIL] 'icon_rc' process down  ","hostname":"68274c511de9"}
+2019-12-17T04:28:15+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:28:15.148] [ERROR] [FAIL] 'icon_service' process down  ","hostname":"68274c511de9"}
+2019-12-17T04:28:15+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:28:15.171] [ERROR] [FAIL] 'gunicorn' process down  ","hostname":"68274c511de9"}
+2019-12-17T04:28:16+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:28:15.193] [ERROR] [FAIL] 'rabbitmq-server' process down  ","hostname":"68274c511de9"}
+2019-12-17T04:28:16+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:28:15.208] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:28:19+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:28:18.394] == Alive peer_list=['13.235.186.52:9000', '13.235.224.125:9000', '13.235.213.123:9000', '13.233.218.239:9000', '13.235.162.219:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T04:28:19+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:28:18.410] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T04:28:19+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:28:18.443] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T04:28:28+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:28:27.130] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T04:28:56+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:28:55.228] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:28:56+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:28:55.261] [ERROR] [FAIL] '/bin/loop' process down  ","hostname":"68274c511de9"}
+2019-12-17T04:28:56+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:28:55.303] [ERROR] [FAIL] 'channel' process down  ","hostname":"68274c511de9"}
+2019-12-17T04:28:56+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:28:55.337] [ERROR] [FAIL] 'icon_rc' process down  ","hostname":"68274c511de9"}
+2019-12-17T04:28:56+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:28:55.368] [ERROR] [FAIL] 'icon_service' process down  ","hostname":"68274c511de9"}
+2019-12-17T04:28:56+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:28:55.391] [ERROR] [FAIL] 'gunicorn' process down  ","hostname":"68274c511de9"}
+2019-12-17T04:28:56+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:28:55.414] [ERROR] [FAIL] 'rabbitmq-server' process down  ","hostname":"68274c511de9"}
+2019-12-17T04:28:56+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:28:55.430] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:28:59+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:28:58.669] == Alive peer_list=['13.233.218.239:9000', '13.126.189.189:9000', '13.235.224.125:9000', '13.235.208.173:9000', '13.235.213.123:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T04:28:59+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:28:58.689] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T04:28:59+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:28:58.727] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T04:29:08+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:29:07.430] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T04:29:36+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:29:35.492] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:29:36+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:29:35.511] [ERROR] [FAIL] '/bin/loop' process down  ","hostname":"68274c511de9"}
+2019-12-17T04:29:36+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:29:35.529] [FAIL] (3/3) It will be terminated / reason: /bin/loop process down  ","hostname":"68274c511de9"}
+2019-12-17T04:29:39+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:29:39.097] Your IP: 58.234.156.141 ","hostname":"68274c511de9"}
+2019-12-17T04:29:39+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:29:39.109] RPC_PORT: 9000 / RPC_WORKER: 3  ","hostname":"68274c511de9"}
+2019-12-17T04:29:39+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:29:39.117] DEFAULT_PATH=/data/loopchain in Docker Container ","hostname":"68274c511de9"}
+2019-12-17T04:29:39+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:29:39.125] DEFAULT_LOG_PATH=/data/loopchain/log ","hostname":"68274c511de9"}
+2019-12-17T04:29:39+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:29:39.134] DEFAULT_STORAGE_PATH=/data/loopchain/.storage ","hostname":"68274c511de9"}
+2019-12-17T04:29:39+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:29:39.156] scoreRootPath=/data/loopchain/.score_data/score ","hostname":"68274c511de9"}
+2019-12-17T04:29:39+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:29:39.166] stateDbRootPath=/data/loopchain/.score_data/db ","hostname":"68274c511de9"}
+2019-12-17T04:29:39+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:29:39.180] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T04:29:47+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:29:47.872] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T04:29:47+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:29:47.886] GENESIS_DATA_PATH=/prep_peer/conf/genesis.json ","hostname":"68274c511de9"}
+2019-12-17T04:29:47+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:29:47.897] P-REP package version info - prep-node_1911121115x323d60 ","hostname":"68274c511de9"}
+2019-12-17T04:29:48+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:29:48.399] iconcommons             1.1.2    ","hostname":"68274c511de9"}
+2019-12-17T04:29:48+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"iconrpcserver           1.4.5    ","hostname":"68274c511de9"}
+2019-12-17T04:29:48+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"iconsdk                 1.2.0    ","hostname":"68274c511de9"}
+2019-12-17T04:29:48+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"iconservice             1.5.18   ","hostname":"68274c511de9"}
+2019-12-17T04:29:48+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"loopchain               2.4.16    ","hostname":"68274c511de9"}
+2019-12-17T04:29:48+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:29:48.408] NETWORK_ENV=PREP-TestNet, SERVICE=zicon, ENDPOINT_URL=https://zicon.net.solidwallet.io, SERVICE_API = https://zicon.net.solidwallet.io/api/v3 ","hostname":"68274c511de9"}
+2019-12-17T04:29:50+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:29:50.607] This node is SubPRep - 0x1 ","hostname":"68274c511de9"}
+2019-12-17T04:29:54+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:29:54.189] == [OK] Write json file -> /prep_peer/conf/configure.json, 1.1 KB","hostname":"68274c511de9"}
+2019-12-17T04:29:54+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"Alive peer_list=['13.126.189.189:9000', '13.235.224.125:9000', '13.235.213.123:9000', '13.235.186.52:9000', '13.233.218.239:9000'], fastpeer_domains=['https://zicon.net.solidwallet.io', 'fastpeer0.icon:9000', 'fastpeer1.icon:9000', 'fastpeer2.icon:9000', 'fastpeer3.icon:9000', 'fastpeer4.icon:9000'] ","hostname":"68274c511de9"}
+2019-12-17T04:29:54+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:29:54.208] CHANNEL_MANAGE_DATA not found - /prep_peer/conf/channel_manange_data.json ","hostname":"68274c511de9"}
+2019-12-17T04:29:54+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:29:54.340] START FASTEST MODE : NETWORK_NAME=ZiconPrepNet ","hostname":"68274c511de9"}
+2019-12-17T04:29:54+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:29:54.360] [PASS] Already file - /data/loopchain/ZiconPrepNet_BH1547673_data-20191217_1300.tar.gz ","hostname":"68274c511de9"}
+2019-12-17T04:29:58+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:29:57.464] Network: PREP-TestNet / RUN_MODE: '' / LOG_OUTPUT_TYPE: file|console ","hostname":"68274c511de9"}
+2019-12-17T04:29:58+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:29:57.477] [OK] CHECK=0, Run loop-peer and loop-channel start -> '' ","hostname":"68274c511de9"}
+2019-12-17T04:29:58+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:29:57.487] [OK] CHECK=0, Run iconservice start! ","hostname":"68274c511de9"}
+2019-12-17T04:29:58+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:29:57.515] [OK] CHECK=0, Run iconrpcserver start! ","hostname":"68274c511de9"}
+2019-12-17T04:30:43+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:30:42.492] Start Health check ... 30s, HEALTH_ENV_CHECK=true ","hostname":"68274c511de9"}
+2019-12-17T04:31:12+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:31:12.472] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:31:12+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:31:12.548] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:31:15+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:31:15.702] == Alive peer_list=['13.235.224.125:9000', '13.235.208.173:9000', '13.235.213.123:9000', '13.235.140.194:9000', '13.233.218.239:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T04:31:15+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:31:15.716] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T04:31:15+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:31:15.763] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T04:31:24+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:31:24.438] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T04:31:52+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:31:52.522] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:31:52+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:31:52.585] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:31:55+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:31:55.726] == Alive peer_list=['13.235.162.219:9000', '13.235.140.194:9000', '13.233.218.239:9000', '13.235.224.125:9000', '13.235.186.52:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T04:31:55+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:31:55.743] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T04:31:55+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:31:55.827] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T04:32:04+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:32:04.463] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T04:32:32+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:32:32.557] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:32:32+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:32:32.631] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:32:35+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:32:35.856] == Alive peer_list=['13.235.224.125:9000', '13.126.189.189:9000', '13.235.208.173:9000', '13.233.218.239:9000', '13.235.172.118:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T04:32:35+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:32:35.867] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T04:32:36+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:32:35.913] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T04:32:44+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:32:44.605] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T04:33:12+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:33:12.685] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:33:12+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:33:12.756] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:33:16+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:33:16.677] == Alive peer_list=['13.126.189.189:9000', '13.235.213.123:9000', '13.235.224.125:9000', '13.235.140.194:9000', '13.235.162.219:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T04:33:16+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:33:16.687] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T04:33:16+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:33:16.808] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T04:33:25+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:33:25.483] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T04:33:53+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:33:53.571] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:33:53+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:33:53.641] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:33:57+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:33:56.992] == Alive peer_list=['13.126.189.189:9000', '13.235.208.173:9000', '13.235.213.123:9000', '13.235.163.199:9000', '13.233.218.239:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T04:33:57+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:33:57.004] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T04:33:57+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:33:57.044] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T04:34:06+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:34:05.752] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T04:34:34+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:34:33.821] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:34:34+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:34:33.914] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:34:38+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:34:38.171] == Alive peer_list=['13.126.189.189:9000', '13.235.163.199:9000', '13.233.218.239:9000', '13.235.224.125:9000', '13.235.172.118:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T04:34:38+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:34:38.184] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T04:34:38+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:34:38.228] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T04:34:47+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:34:46.925] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T04:35:15+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:35:15.003] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:35:15+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:35:15.092] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:35:18+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:35:18.354] == Alive peer_list=['13.235.224.125:9000', '13.233.218.239:9000', '13.235.172.118:9000', '13.235.163.199:9000', '13.126.189.189:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T04:35:18+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:35:18.362] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T04:35:18+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:35:18.399] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T04:35:27+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:35:27.078] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T04:35:55+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:35:55.169] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:35:55+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:35:55.233] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:35:58+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:35:58.285] == Alive peer_list=['13.126.189.189:9000', '13.235.163.199:9000', '13.235.224.125:9000', '13.233.218.239:9000', '13.235.172.118:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T04:35:58+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:35:58.296] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T04:35:58+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:35:58.343] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T04:36:07+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:36:07.057] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T04:36:35+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:36:35.128] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:36:35+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:36:35.199] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:36:38+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:36:38.463] == Alive peer_list=['13.126.189.189:9000', '13.235.224.125:9000', '13.235.163.199:9000', '13.233.218.239:9000', '13.235.208.173:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T04:36:38+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:36:38.475] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T04:36:38+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:36:38.514] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T04:36:47+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:36:47.204] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T04:37:15+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:37:15.286] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:37:15+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:37:15.436] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:37:20+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:37:20.093] == Alive peer_list=['13.235.208.173:9000', '13.235.140.194:9000', '13.235.186.52:9000', '13.235.163.199:9000', '13.235.224.125:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T04:37:20+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:37:20.111] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T04:37:20+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:37:20.172] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T04:37:29+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:37:28.838] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T04:37:57+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:37:56.931] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:37:57+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:37:56.995] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:38:00+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:38:00.098] == Alive peer_list=['13.233.218.239:9000', '13.126.189.189:9000', '13.235.224.125:9000', '13.235.208.173:9000', '13.235.140.194:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T04:38:00+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:38:00.108] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T04:38:00+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:38:00.185] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T04:38:09+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:38:08.886] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T04:38:37+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:38:36.953] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:38:37+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:38:37.058] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:38:41+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:38:40.513] == Alive peer_list=['13.235.163.199:9000', '13.233.218.239:9000', '13.235.208.173:9000', '13.126.189.189:9000', '13.235.186.52:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T04:38:41+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:38:40.527] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T04:38:41+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:38:40.568] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T04:38:49+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:38:49.257] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T04:39:17+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:39:17.340] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:39:17+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:39:17.413] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:39:21+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:39:20.612] == Alive peer_list=['13.235.208.173:9000', '13.235.186.52:9000', '13.235.224.125:9000', '13.235.213.123:9000', '13.126.189.189:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T04:39:21+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:39:20.628] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T04:39:21+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:39:20.670] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T04:39:30+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:39:29.318] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T04:39:58+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:39:57.405] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:39:58+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:39:57.474] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:40:01+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:40:00.713] == Alive peer_list=['13.235.140.194:9000', '13.126.189.189:9000', '13.235.224.125:9000', '13.233.218.239:9000', '13.235.163.199:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T04:40:01+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:40:00.729] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T04:40:01+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:40:00.767] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T04:40:10+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:40:09.466] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T04:40:38+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:40:37.543] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:40:38+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:40:37.642] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:40:42+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:40:41.349] == Alive peer_list=['13.126.189.189:9000', '13.235.208.173:9000', '13.235.140.194:9000', '13.235.224.125:9000', '13.235.213.123:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T04:40:42+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:40:41.363] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T04:40:42+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:40:41.408] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T04:40:50+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:40:50.092] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T04:41:18+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:41:18.175] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:41:18+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:41:18.240] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:41:22+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:41:21.666] == Alive peer_list=['13.126.189.189:9000', '13.235.224.125:9000', '13.233.218.239:9000', '13.235.163.199:9000', '13.235.186.52:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T04:41:22+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:41:21.679] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T04:41:22+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:41:21.717] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T04:41:31+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:41:30.405] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T04:42:01+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:42:00.421] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:42:01+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:42:00.487] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:42:04+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:42:03.603] == Alive peer_list=['13.233.218.239:9000', '13.126.189.189:9000', '13.235.224.125:9000', '13.235.162.219:9000', '13.235.208.173:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T04:42:04+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:42:03.614] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T04:42:04+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:42:03.654] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T04:42:11+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:42:10.391] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T04:42:39+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:42:38.456] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:42:39+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:42:38.527] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:42:42+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:42:41.679] == Alive peer_list=['13.235.208.173:9000', '13.235.224.125:9000', '13.235.172.118:9000', '13.126.189.189:9000', '13.235.140.194:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T04:42:42+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:42:41.689] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T04:42:42+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:42:41.733] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T04:42:51+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:42:50.439] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T04:43:19+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:43:18.515] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:43:19+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:43:18.611] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:43:22+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:43:21.794] == Alive peer_list=['13.233.218.239:9000', '13.126.189.189:9000', '13.235.140.194:9000', '13.235.224.125:9000', '13.235.186.52:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T04:43:22+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:43:21.805] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T04:43:22+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:43:21.855] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T04:43:31+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:43:30.541] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T04:43:59+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:43:58.628] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:43:59+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:43:58.694] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:44:02+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:44:01.920] == Alive peer_list=['13.126.189.189:9000', '13.235.186.52:9000', '13.235.162.219:9000', '13.235.172.118:9000', '13.235.224.125:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T04:44:02+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:44:01.932] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T04:44:02+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:44:01.980] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T04:44:10+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:44:10.620] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T04:44:39+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:44:38.722] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:44:39+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:44:38.834] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:44:43+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:44:42.244] == Alive peer_list=['13.235.208.173:9000', '13.233.218.239:9000', '13.126.189.189:9000', '13.235.186.52:9000', '13.235.224.125:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T04:44:43+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:44:42.262] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T04:44:43+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:44:42.323] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T04:44:51+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:44:51.036] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T04:45:19+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:45:19.103] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:45:19+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:45:19.177] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:45:23+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:45:22.323] == Alive peer_list=['13.126.189.189:9000', '13.235.224.125:9000', '13.235.140.194:9000', '13.235.208.173:9000', '13.233.218.239:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T04:45:23+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:45:22.332] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T04:45:23+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:45:22.375] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T04:45:31+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:45:31.055] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T04:45:59+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:45:59.140] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:45:59+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:45:59.207] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:46:02+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:46:02.308] == Alive peer_list=['13.235.163.199:9000', '13.233.218.239:9000', '13.126.189.189:9000', '13.235.224.125:9000', '13.235.208.173:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T04:46:02+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:46:02.333] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T04:46:02+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:46:02.375] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T04:46:11+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:46:11.016] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T04:46:39+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:46:39.092] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:46:39+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:46:39.159] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:46:43+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:46:43.270] == Alive peer_list=['13.233.218.239:9000', '13.235.208.173:9000', '13.235.186.52:9000', '13.126.189.189:9000', '13.235.163.199:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T04:46:43+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:46:43.285] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T04:46:43+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:46:43.330] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T04:46:52+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:46:52.037] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T04:47:20+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:47:20.113] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:47:20+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:47:20.220] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:47:23+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:47:23.524] == Alive peer_list=['13.126.189.189:9000', '13.235.163.199:9000', '13.235.208.173:9000', '13.235.213.123:9000', '13.235.186.52:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T04:47:23+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:47:23.535] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T04:47:23+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:47:23.584] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T04:47:32+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:47:32.286] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T04:48:00+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:48:00.370] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:48:00+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:48:00.455] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:48:04+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:48:04.058] == Alive peer_list=['13.235.224.125:9000', '13.235.140.194:9000', '13.233.218.239:9000', '13.126.189.189:9000', '13.235.162.219:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T04:48:04+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:48:04.070] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T04:48:04+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:48:04.111] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T04:48:13+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:48:12.791] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T04:48:41+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:48:40.856] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:48:41+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:48:40.929] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:48:44+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:48:44.242] == Alive peer_list=['13.235.186.52:9000', '13.235.172.118:9000', '13.235.208.173:9000', '13.235.140.194:9000', '13.235.224.125:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T04:48:44+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:48:44.251] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T04:48:44+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:48:44.293] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T04:48:53+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:48:52.982] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T04:49:21+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:49:21.054] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:49:21+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:49:21.134] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:49:25+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:49:25.328] == Alive peer_list=['13.235.224.125:9000', '13.126.189.189:9000', '13.233.218.239:9000', '13.235.140.194:9000', '13.235.163.199:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T04:49:25+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:49:25.345] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T04:49:25+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:49:25.391] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T04:49:34+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:49:34.072] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T04:50:02+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:50:02.166] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:50:02+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:50:02.289] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:50:06+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:50:05.898] == Alive peer_list=['13.235.163.199:9000', '13.235.213.123:9000', '13.235.186.52:9000', '13.235.162.219:9000', '13.235.172.118:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T04:50:06+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:50:05.914] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T04:50:06+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:50:05.971] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T04:50:15+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:50:14.679] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T04:50:43+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:50:42.749] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:50:43+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:50:42.882] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:50:46+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:50:46.009] == Alive peer_list=['13.235.140.194:9000', '13.233.218.239:9000', '13.235.208.173:9000', '13.126.189.189:9000', '13.235.224.125:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T04:50:46+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:50:46.040] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T04:50:46+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:50:46.091] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T04:50:55+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:50:54.789] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T04:51:23+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:51:22.869] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:51:23+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:51:22.950] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:51:26+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:51:26.151] == Alive peer_list=['13.126.189.189:9000', '13.235.224.125:9000', '13.235.208.173:9000', '13.235.213.123:9000', '13.235.186.52:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T04:51:26+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:51:26.160] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T04:51:26+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:51:26.199] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T04:51:35+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:51:34.887] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T04:52:03+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:52:02.974] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:52:03+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:52:03.121] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:52:07+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:52:06.587] == Alive peer_list=['13.126.189.189:9000', '13.233.218.239:9000', '13.235.213.123:9000', '13.235.186.52:9000', '13.235.172.118:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T04:52:07+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:52:06.595] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T04:52:07+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:52:06.634] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T04:52:15+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:52:15.352] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T04:52:43+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:52:43.429] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:52:44+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:52:43.514] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:52:48+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:52:47.681] == Alive peer_list=['13.233.218.239:9000', '13.126.189.189:9000', '13.235.163.199:9000', '13.235.208.173:9000', '13.235.140.194:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T04:52:48+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:52:47.695] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T04:52:48+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:52:47.756] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T04:53:01+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:53:01.440] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T04:53:29+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:53:29.513] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:53:29+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:53:29.582] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:53:33+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:53:32.900] == Alive peer_list=['13.235.172.118:9000', '13.235.140.194:9000', '13.233.218.239:9000', '13.235.213.123:9000', '13.235.186.52:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T04:53:33+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:53:32.915] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T04:53:33+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:53:32.956] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T04:53:41+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:53:41.627] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T04:54:09+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:54:09.687] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:54:09+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:54:09.755] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:54:13+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:54:13.075] == Alive peer_list=['13.235.213.123:9000', '13.235.163.199:9000', '13.235.208.173:9000', '13.235.162.219:9000', '13.126.189.189:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T04:54:13+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:54:13.089] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T04:54:13+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:54:13.136] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T04:54:21+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:54:21.835] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T04:54:49+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:54:49.908] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:54:50+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:54:49.999] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:54:53+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:54:53.308] == Alive peer_list=['13.235.163.199:9000', '13.235.140.194:9000', '13.126.189.189:9000', '13.233.218.239:9000', '13.235.224.125:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T04:54:53+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:54:53.322] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T04:54:54+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:54:53.366] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T04:55:02+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:55:02.074] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T04:55:30+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:55:30.159] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:55:30+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:55:30.238] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:55:34+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:55:33.478] == Alive peer_list=['13.235.224.125:9000', '13.126.189.189:9000', '13.233.218.239:9000', '13.235.208.173:9000', '13.235.213.123:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T04:55:34+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:55:33.491] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T04:55:34+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:55:33.531] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T04:55:43+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:55:42.201] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T04:56:11+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:56:10.264] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:56:11+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:56:10.341] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:56:14+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:56:13.776] == Alive peer_list=['13.235.172.118:9000', '13.235.140.194:9000', '13.235.213.123:9000', '13.233.218.239:9000', '13.235.186.52:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T04:56:14+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:56:13.799] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T04:56:14+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:56:13.897] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T04:56:23+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:56:22.608] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T04:56:51+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:56:50.685] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:56:51+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:56:50.755] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:56:54+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:56:54.164] == Alive peer_list=['13.235.140.194:9000', '13.235.224.125:9000', '13.235.213.123:9000', '13.233.218.239:9000', '13.235.163.199:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T04:56:54+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:56:54.177] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T04:56:55+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:56:54.226] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T04:57:03+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:57:02.912] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T04:57:31+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:57:31.003] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:57:31+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:57:31.115] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:57:35+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:57:34.760] == Alive peer_list=['13.235.140.194:9000', '13.235.172.118:9000', '13.126.189.189:9000', '13.235.208.173:9000', '13.235.213.123:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T04:57:35+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:57:34.771] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T04:57:35+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:57:34.817] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T04:57:44+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:57:43.525] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T04:58:12+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:58:11.589] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:58:12+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:58:11.676] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:58:15+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:58:14.963] == Alive peer_list=['13.126.189.189:9000', '13.235.172.118:9000', '13.235.186.52:9000', '13.235.224.125:9000', '13.235.213.123:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T04:58:15+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:58:14.978] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T04:58:15+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:58:15.064] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T04:58:24+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:58:23.763] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T04:58:52+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:58:51.836] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:58:52+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:58:51.911] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:58:56+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:58:55.377] == Alive peer_list=['13.126.189.189:9000', '13.235.208.173:9000', '13.235.186.52:9000', '13.235.213.123:9000', '13.235.140.194:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T04:58:56+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:58:55.389] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T04:58:56+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:58:55.430] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T04:59:04+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:59:04.112] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T04:59:33+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:59:32.209] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:59:33+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:59:32.284] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T04:59:35+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:59:35.907] == Alive peer_list=['13.235.224.125:9000', '13.126.189.189:9000', '13.235.186.52:9000', '13.235.140.194:9000', '13.235.208.173:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T04:59:35+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:59:35.917] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T04:59:35+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:59:35.959] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T04:59:44+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 13:59:44.698] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:00:12+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:00:12.764] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:00:12+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:00:12.875] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:00:16+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:00:16.186] == Alive peer_list=['13.235.224.125:9000', '13.235.213.123:9000', '13.235.140.194:9000', '13.235.208.173:9000', '13.126.189.189:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:00:16+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:00:16.209] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:00:16+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:00:16.289] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:00:25+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:00:24.985] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:00:55+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:00:55.003] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:00:55+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:00:55.118] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:00:58+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:00:58.676] == Alive peer_list=['13.126.189.189:9000', '13.235.208.173:9000', '13.235.163.199:9000', '13.235.140.194:9000', '13.235.224.125:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:00:58+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:00:58.688] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:00:58+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:00:58.728] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:01:05+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:01:05.529] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:01:33+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:01:33.596] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:01:33+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:01:33.748] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:01:37+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:01:37.390] == Alive peer_list=['13.235.224.125:9000', '13.235.172.118:9000', '13.235.213.123:9000', '13.126.189.189:9000', '13.235.163.199:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:01:37+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:01:37.412] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:01:37+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:01:37.496] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:01:46+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:01:46.413] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:02:14+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:02:14.499] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:02:14+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:02:14.564] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:02:17+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:02:17.701] == Alive peer_list=['13.235.224.125:9000', '13.126.189.189:9000', '13.235.163.199:9000', '13.233.218.239:9000', '13.235.208.173:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:02:17+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:02:17.709] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:02:17+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:02:17.745] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:02:26+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:02:26.448] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:02:54+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:02:54.515] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:02:54+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:02:54.584] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:02:58+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:02:57.941] == Alive peer_list=['13.235.208.173:9000', '13.235.213.123:9000', '13.235.172.118:9000', '13.126.189.189:9000', '13.235.140.194:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:02:58+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:02:57.958] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:02:58+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:02:58.011] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:03:07+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:03:07.195] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:03:35+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:03:35.268] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:03:35+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:03:35.348] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:03:40+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:03:40.468] == Alive peer_list=['13.235.163.199:9000', '13.233.218.239:9000', '13.126.189.189:9000', '13.235.162.219:9000', '13.235.186.52:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:03:40+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:03:40.485] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:03:40+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:03:40.524] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:03:49+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:03:49.181] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:04:17+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:04:17.254] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:04:17+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:04:17.364] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:04:21+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:04:21.307] == Alive peer_list=['13.235.224.125:9000', '13.235.163.199:9000', '13.126.189.189:9000', '13.235.208.173:9000', '13.235.172.118:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:04:21+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:04:21.321] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:04:21+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:04:21.367] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:04:30+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:04:30.074] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:04:58+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:04:58.153] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:04:58+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:04:58.219] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:05:02+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:05:01.812] == Alive peer_list=['13.235.163.199:9000', '13.235.213.123:9000', '13.235.140.194:9000', '13.235.172.118:9000', '13.235.208.173:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:05:02+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:05:01.824] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:05:02+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:05:01.887] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:05:11+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:05:10.589] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:05:39+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:05:38.678] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:05:39+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:05:38.773] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:05:42+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:05:41.908] == Alive peer_list=['13.235.208.173:9000', '13.235.224.125:9000', '13.233.218.239:9000', '13.126.189.189:9000', '13.235.186.52:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:05:42+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:05:41.922] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:05:42+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:05:41.973] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:05:51+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:05:50.638] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:06:19+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:06:18.714] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:06:19+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:06:18.808] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:06:22+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:06:21.942] == Alive peer_list=['13.235.208.173:9000', '13.235.224.125:9000', '13.235.163.199:9000', '13.233.218.239:9000', '13.126.189.189:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:06:22+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:06:21.957] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:06:22+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:06:22.002] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:06:31+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:06:30.696] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:06:59+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:06:58.775] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:06:59+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:06:58.849] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:07:02+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:07:02.297] == Alive peer_list=['13.233.218.239:9000', '13.235.140.194:9000', '13.235.186.52:9000', '13.235.172.118:9000', '13.235.213.123:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:07:02+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:07:02.317] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:07:02+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:07:02.358] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:07:11+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:07:11.039] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:07:39+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:07:39.125] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:07:39+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:07:39.190] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:07:42+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:07:42.447] == Alive peer_list=['13.235.224.125:9000', '13.126.189.189:9000', '13.235.140.194:9000', '13.235.163.199:9000', '13.233.218.239:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:07:42+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:07:42.460] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:07:43+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:07:42.508] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:07:51+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:07:51.198] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:08:19+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:08:19.260] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:08:19+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:08:19.337] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:08:23+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:08:22.878] == Alive peer_list=['13.235.208.173:9000', '13.233.218.239:9000', '13.235.172.118:9000', '13.235.213.123:9000', '13.235.162.219:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:08:23+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:08:22.895] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:08:23+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:08:22.967] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:08:32+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:08:31.671] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:09:00+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:08:59.739] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:09:00+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:08:59.851] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:09:03+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:09:03.240] == Alive peer_list=['13.126.189.189:9000', '13.235.172.118:9000', '13.233.218.239:9000', '13.235.213.123:9000', '13.235.208.173:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:09:03+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:09:03.254] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:09:03+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:09:03.305] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:09:13+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:09:12.566] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:09:41+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:09:40.653] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:09:41+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:09:40.776] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:09:45+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:09:45.133] == Alive peer_list=['13.126.189.189:9000', '13.235.224.125:9000', '13.235.208.173:9000', '13.233.218.239:9000', '13.235.172.118:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:09:45+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:09:45.159] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:09:45+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:09:45.248] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:09:54+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:09:53.992] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:10:22+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:10:22.057] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:10:22+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:10:22.150] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:10:26+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:10:25.584] == Alive peer_list=['13.235.224.125:9000', '13.126.189.189:9000', '13.235.208.173:9000', '13.235.172.118:9000', '13.233.218.239:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:10:26+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:10:25.601] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:10:26+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:10:25.666] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:10:35+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:10:34.362] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:11:03+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:11:02.440] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:11:03+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:11:02.521] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:11:06+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:11:06.015] == Alive peer_list=['13.235.208.173:9000', '13.235.140.194:9000', '13.235.172.118:9000', '13.233.218.239:9000', '13.235.224.125:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:11:06+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:11:06.028] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:11:06+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:11:06.080] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:11:15+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:11:14.738] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:11:43+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:11:42.831] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:11:43+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:11:42.932] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:11:46+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:11:46.102] == Alive peer_list=['13.235.224.125:9000', '13.126.189.189:9000', '13.233.218.239:9000', '13.235.208.173:9000', '13.235.186.52:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:11:46+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:11:46.128] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:11:47+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:11:46.176] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:11:55+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:11:54.892] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:12:23+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:12:22.957] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:12:23+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:12:23.045] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:12:27+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:12:26.342] == Alive peer_list=['13.235.208.173:9000', '13.233.218.239:9000', '13.235.172.118:9000', '13.126.189.189:9000', '13.235.224.125:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:12:27+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:12:26.357] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:12:27+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:12:26.394] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:12:36+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:12:35.083] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:13:04+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:13:03.161] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:13:04+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:13:03.245] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:13:07+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:13:06.745] == Alive peer_list=['13.233.218.239:9000', '13.235.213.123:9000', '13.235.224.125:9000', '13.235.162.219:9000', '13.235.140.194:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:13:07+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:13:06.755] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:13:07+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:13:06.795] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:13:15+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:13:15.442] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:13:44+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:13:43.538] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:13:44+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:13:43.664] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:13:48+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:13:47.150] == Alive peer_list=['13.233.218.239:9000', '13.235.208.173:9000', '13.235.224.125:9000', '13.126.189.189:9000', '13.235.186.52:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:13:48+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:13:47.167] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:13:48+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:13:47.231] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:13:56+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:13:55.945] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:14:24+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:14:24.006] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:14:24+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:14:24.111] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:14:27+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:14:27.383] == Alive peer_list=['13.235.224.125:9000', '13.126.189.189:9000', '13.233.218.239:9000', '13.235.208.173:9000', '13.235.172.118:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:14:27+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:14:27.397] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:14:27+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:14:27.440] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:14:36+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:14:36.138] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:15:04+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:15:04.215] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:15:04+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:15:04.289] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:15:08+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:15:08.038] == Alive peer_list=['13.235.224.125:9000', '13.235.186.52:9000', '13.235.213.123:9000', '13.235.140.194:9000', '13.235.208.173:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:15:08+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:15:08.054] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:15:08+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:15:08.106] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:15:17+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:15:16.965] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:15:45+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:15:45.057] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:15:45+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:15:45.145] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:15:48+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:15:48.410] == Alive peer_list=['13.235.224.125:9000', '13.235.162.219:9000', '13.235.186.52:9000', '13.235.172.118:9000', '13.235.140.194:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:15:48+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:15:48.425] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:15:48+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:15:48.471] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:15:57+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:15:57.184] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:16:25+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:16:25.253] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:16:25+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:16:25.324] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:16:28+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:16:28.776] == Alive peer_list=['13.235.162.219:9000', '13.235.224.125:9000', '13.235.186.52:9000', '13.233.218.239:9000', '13.235.140.194:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:16:28+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:16:28.791] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:16:29+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:16:28.848] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:16:37+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:16:37.542] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:17:05+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:17:05.616] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:17:05+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:17:05.692] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:17:09+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:17:08.999] == Alive peer_list=['13.235.224.125:9000', '13.233.218.239:9000', '13.235.163.199:9000', '13.126.189.189:9000', '13.235.172.118:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:17:09+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:17:09.016] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:17:09+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:17:09.065] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:17:18+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:17:17.740] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:17:46+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:17:45.801] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:17:46+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:17:45.911] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:17:49+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:17:49.284] == Alive peer_list=['13.235.186.52:9000', '13.235.163.199:9000', '13.235.213.123:9000', '13.235.208.173:9000', '13.235.224.125:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:17:49+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:17:49.302] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:17:49+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:17:49.355] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:17:58+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:17:58.066] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:18:26+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:18:26.134] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:18:26+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:18:26.223] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:18:29+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:18:29.321] == Alive peer_list=['13.235.213.123:9000', '13.233.218.239:9000', '13.235.224.125:9000', '13.235.208.173:9000', '13.235.172.118:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:18:29+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:18:29.331] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:18:29+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:18:29.368] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:18:38+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:18:38.055] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:19:06+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:19:06.131] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:19:06+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:19:06.213] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:19:10+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:19:09.992] == Alive peer_list=['13.233.218.239:9000', '13.235.213.123:9000', '13.235.186.52:9000', '13.235.140.194:9000', '13.235.208.173:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:19:10+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:19:10.013] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:19:10+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:19:10.067] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:19:19+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:19:18.958] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:19:47+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:19:47.016] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:19:47+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:19:47.139] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:19:50+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:19:50.483] == Alive peer_list=['13.235.140.194:9000', '13.235.208.173:9000', '13.235.224.125:9000', '13.235.186.52:9000', '13.235.162.219:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:19:50+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:19:50.499] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:19:50+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:19:50.544] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:19:59+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:19:59.259] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:20:27+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:20:27.328] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:20:27+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:20:27.399] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:20:31+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:20:30.596] == Alive peer_list=['13.126.189.189:9000', '13.235.140.194:9000', '13.235.224.125:9000', '13.233.218.239:9000', '13.235.163.199:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:20:31+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:20:30.616] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:20:31+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:20:30.666] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:20:40+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:20:40.161] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:21:08+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:21:08.237] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:21:08+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:21:08.336] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:21:13+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:21:12.696] == Alive peer_list=['13.235.224.125:9000', '13.235.208.173:9000', '13.126.189.189:9000', '13.235.140.194:9000', '13.233.218.239:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:21:13+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:21:12.706] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:21:13+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:21:12.745] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:21:22+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:21:21.464] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:21:50+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:21:49.523] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:21:50+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:21:49.610] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:21:53+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:21:52.969] == Alive peer_list=['13.233.218.239:9000', '13.235.213.123:9000', '13.235.163.199:9000', '13.235.208.173:9000', '13.235.140.194:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:21:53+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:21:52.983] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:21:53+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:21:53.033] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:22:02+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:22:01.737] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:22:32+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:22:31.757] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:22:32+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:22:31.854] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:22:35+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:22:35.161] == Alive peer_list=['13.235.224.125:9000', '13.235.186.52:9000', '13.235.208.173:9000', '13.233.218.239:9000', '13.126.189.189:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:22:35+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:22:35.175] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:22:35+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:22:35.217] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:22:42+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:22:42.023] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:23:10+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:23:10.062] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:23:10+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:23:10.171] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:23:17+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:23:16.706] == Alive peer_list=['13.235.172.118:9000', '13.233.218.239:9000', '13.235.208.173:9000', '13.126.189.189:9000', '13.235.213.123:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:23:17+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:23:16.717] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:23:17+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:23:16.766] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:23:26+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:23:25.451] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:23:56+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:23:55.467] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:23:56+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:23:55.537] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:23:59+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:23:58.840] == Alive peer_list=['13.235.224.125:9000', '13.126.189.189:9000', '13.235.208.173:9000', '13.235.140.194:9000', '13.233.218.239:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:23:59+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:23:58.862] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:23:59+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:23:58.908] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:24:04+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:24:03.739] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:24:34+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:24:33.734] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:24:34+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:24:33.828] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:24:37+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:24:37.113] == Alive peer_list=['13.235.224.125:9000', '13.126.189.189:9000', '13.235.172.118:9000', '13.235.208.173:9000', '13.233.218.239:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:24:37+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:24:37.128] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:24:37+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:24:37.173] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:24:46+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:24:45.880] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:25:14+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:25:13.949] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:25:14+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:25:14.021] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:25:18+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:25:17.362] == Alive peer_list=['13.235.208.173:9000', '13.235.163.199:9000', '13.233.218.239:9000', '13.235.172.118:9000', '13.235.140.194:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:25:18+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:25:17.379] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:25:18+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:25:17.426] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:25:26+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:25:26.122] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:25:55+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:25:54.208] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:25:55+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:25:54.353] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:25:58+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:25:57.607] == Alive peer_list=['13.235.224.125:9000', '13.233.218.239:9000', '13.235.208.173:9000', '13.126.189.189:9000', '13.235.186.52:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:25:58+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:25:57.625] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:25:58+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:25:57.731] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:26:07+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:26:06.421] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:26:37+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:26:36.435] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:26:37+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:26:36.518] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:26:40+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:26:39.798] == Alive peer_list=['13.235.208.173:9000', '13.233.218.239:9000', '13.126.189.189:9000', '13.235.224.125:9000', '13.235.140.194:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:26:40+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:26:39.814] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:26:40+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:26:39.853] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:26:47+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:26:46.594] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:27:15+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:27:14.662] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:27:15+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:27:14.733] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:27:18+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:27:18.047] == Alive peer_list=['13.235.208.173:9000', '13.126.189.189:9000', '13.235.213.123:9000', '13.235.224.125:9000', '13.235.163.199:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:27:18+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:27:18.063] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:27:19+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:27:18.120] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:27:27+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:27:26.853] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:27:55+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:27:54.938] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:27:55+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:27:55.212] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:27:59+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:27:58.748] == Alive peer_list=['13.126.189.189:9000', '13.235.162.219:9000', '13.235.172.118:9000', '13.235.224.125:9000', '13.235.213.123:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:27:59+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:27:58.765] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:27:59+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:27:58.819] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:28:07+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:28:07.505] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:28:35+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:28:35.591] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:28:35+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:28:35.683] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:28:38+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:28:38.910] == Alive peer_list=['13.233.218.239:9000', '13.235.208.173:9000', '13.235.186.52:9000', '13.235.172.118:9000', '13.235.140.194:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:28:38+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:28:38.923] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:28:38+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:28:38.972] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:28:47+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:28:47.683] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:29:15+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:29:15.740] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:29:15+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:29:15.830] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:29:19+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:29:19.024] == Alive peer_list=['13.126.189.189:9000', '13.235.208.173:9000', '13.233.218.239:9000', '13.235.224.125:9000', '13.235.186.52:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:29:19+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:29:19.038] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:29:19+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:29:19.086] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:29:27+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:29:27.790] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:29:55+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:29:55.864] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:29:56+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:29:55.975] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:29:59+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:29:59.208] == Alive peer_list=['13.233.218.239:9000', '13.235.140.194:9000', '13.235.224.125:9000', '13.235.213.123:9000', '13.126.189.189:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:29:59+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:29:59.223] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:29:59+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:29:59.265] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:30:08+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:30:07.954] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:30:36+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:30:36.045] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:30:36+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:30:36.201] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:30:39+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:30:39.489] == Alive peer_list=['13.235.208.173:9000', '13.235.224.125:9000', '13.126.189.189:9000', '13.235.140.194:9000', '13.235.186.52:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:30:39+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:30:39.503] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:30:39+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:30:39.543] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:30:48+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:30:48.263] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:31:16+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:31:16.328] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:31:16+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:31:16.465] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:31:20+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:31:19.856] == Alive peer_list=['13.126.189.189:9000', '13.235.163.199:9000', '13.233.218.239:9000', '13.235.213.123:9000', '13.235.172.118:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:31:20+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:31:19.872] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:31:20+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:31:19.961] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:31:28+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:31:28.658] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:31:56+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:31:56.729] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:31:57+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:31:56.862] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:32:00+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:32:00.140] == Alive peer_list=['13.235.186.52:9000', '13.235.163.199:9000', '13.233.218.239:9000', '13.235.224.125:9000', '13.235.208.173:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:32:00+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:32:00.153] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:32:00+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:32:00.191] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:32:09+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:32:09.322] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:32:37+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:32:37.404] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:32:37+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:32:37.556] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:32:40+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:32:40.682] == Alive peer_list=['13.235.224.125:9000', '13.126.189.189:9000', '13.233.218.239:9000', '13.235.163.199:9000', '13.235.213.123:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:32:40+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:32:40.706] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:32:40+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:32:40.759] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:32:49+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:32:49.468] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:33:19+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:33:19.485] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:33:19+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:33:19.619] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:33:23+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:33:22.877] == Alive peer_list=['13.235.224.125:9000', '13.235.172.118:9000', '13.235.140.194:9000', '13.235.208.173:9000', '13.235.162.219:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:33:23+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:33:22.892] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:33:23+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:33:22.939] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:33:30+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:33:29.736] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:33:58+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:33:57.767] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:33:58+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:33:57.845] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:34:01+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:34:01.088] == Alive peer_list=['13.235.224.125:9000', '13.235.208.173:9000', '13.235.140.194:9000', '13.235.162.219:9000', '13.233.218.239:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:34:01+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:34:01.101] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:34:01+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:34:01.146] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:34:10+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:34:09.840] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:34:38+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:34:37.916] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:34:38+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:34:37.993] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:34:41+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:34:41.269] == Alive peer_list=['13.233.218.239:9000', '13.235.140.194:9000', '13.235.186.52:9000', '13.235.213.123:9000', '13.235.172.118:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:34:41+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:34:41.283] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:34:41+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:34:41.325] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:34:50+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:34:49.975] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:35:18+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:35:18.059] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:35:18+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:35:18.134] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:35:21+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:35:21.494] == Alive peer_list=['13.233.218.239:9000', '13.235.163.199:9000', '13.235.213.123:9000', '13.235.140.194:9000', '13.235.208.173:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:35:21+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:35:21.507] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:35:22+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:35:21.551] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:35:30+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:35:30.257] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:35:58+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:35:58.319] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:35:58+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:35:58.395] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:36:02+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:36:01.621] == Alive peer_list=['13.235.224.125:9000', '13.233.218.239:9000', '13.235.213.123:9000', '13.235.140.194:9000', '13.235.208.173:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:36:02+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:36:01.633] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:36:02+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:36:01.689] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:36:10+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:36:10.383] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:36:38+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:36:38.454] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:36:39+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:36:38.520] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:36:42+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:36:41.758] == Alive peer_list=['13.235.140.194:9000', '13.233.218.239:9000', '13.235.213.123:9000', '13.126.189.189:9000', '13.235.224.125:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:36:42+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:36:41.774] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:36:42+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:36:41.823] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:36:51+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:36:50.497] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:37:21+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:37:20.513] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:37:21+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:37:20.588] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:37:24+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:37:23.651] == Alive peer_list=['13.233.218.239:9000', '13.235.163.199:9000', '13.235.140.194:9000', '13.235.186.52:9000', '13.235.172.118:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:37:24+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:37:23.662] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:37:24+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:37:23.705] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:37:31+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:37:30.453] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:37:59+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:37:58.518] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:37:59+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:37:58.620] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:38:02+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:38:01.959] == Alive peer_list=['13.235.224.125:9000', '13.235.140.194:9000', '13.233.218.239:9000', '13.235.208.173:9000', '13.235.213.123:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:38:02+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:38:01.984] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:38:02+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:38:02.114] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:38:11+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:38:10.826] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:38:39+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:38:38.889] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:38:39+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:38:38.966] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:38:43+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:38:42.329] == Alive peer_list=['13.235.172.118:9000', '13.235.208.173:9000', '13.235.186.52:9000', '13.235.163.199:9000', '13.235.213.123:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:38:43+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:38:42.344] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:38:43+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:38:42.385] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:38:51+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:38:51.077] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:39:19+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:39:19.159] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:39:19+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:39:19.236] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:39:23+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:39:22.581] == Alive peer_list=['13.235.208.173:9000', '13.235.213.123:9000', '13.235.186.52:9000', '13.126.189.189:9000', '13.235.172.118:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:39:23+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:39:22.593] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:39:23+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:39:22.643] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:39:32+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:39:31.325] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:40:00+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:39:59.382] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:40:00+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:39:59.455] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:40:03+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:40:02.599] == Alive peer_list=['13.235.224.125:9000', '13.235.163.199:9000', '13.126.189.189:9000', '13.233.218.239:9000', '13.235.208.173:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:40:03+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:40:02.611] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:40:03+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:40:02.660] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:40:12+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:40:11.359] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:40:40+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:40:39.423] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:40:40+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:40:39.512] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:40:43+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:40:42.913] == Alive peer_list=['13.235.224.125:9000', '13.235.172.118:9000', '13.235.140.194:9000', '13.235.186.52:9000', '13.235.208.173:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:40:43+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:40:42.924] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:40:43+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:40:42.979] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:40:52+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:40:51.673] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:41:20+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:41:19.751] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:41:20+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:41:19.846] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:41:24+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:41:23.170] == Alive peer_list=['13.233.218.239:9000', '13.126.189.189:9000', '13.235.213.123:9000', '13.235.140.194:9000', '13.235.186.52:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:41:24+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:41:23.188] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:41:24+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:41:23.248] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:41:32+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:41:31.940] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:42:00+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:42:00.027] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:42:00+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:42:00.153] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:42:04+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:42:03.506] == Alive peer_list=['13.126.189.189:9000', '13.235.186.52:9000', '13.235.213.123:9000', '13.233.218.239:9000', '13.235.140.194:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:42:04+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:42:03.518] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:42:04+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:42:03.554] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:42:12+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:42:12.250] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:42:40+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:42:40.320] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:42:40+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:42:40.387] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:42:44+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:42:43.650] == Alive peer_list=['13.126.189.189:9000', '13.233.218.239:9000', '13.235.140.194:9000', '13.235.213.123:9000', '13.235.208.173:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:42:44+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:42:43.664] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:42:44+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:42:43.707] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:42:52+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:42:52.402] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:43:21+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:43:20.477] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:43:21+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:43:20.554] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:43:24+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:43:23.727] == Alive peer_list=['13.126.189.189:9000', '13.235.224.125:9000', '13.233.218.239:9000', '13.235.162.219:9000', '13.235.163.199:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:43:24+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:43:23.740] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:43:24+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:43:23.783] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:43:32+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:43:32.467] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:44:00+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:44:00.542] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:44:00+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:44:00.629] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:44:04+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:44:04.477] == Alive peer_list=['13.235.208.173:9000', '13.235.224.125:9000', '13.235.140.194:9000', '13.235.186.52:9000', '13.235.162.219:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:44:04+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:44:04.510] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:44:04+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:44:04.582] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:44:13+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:44:13.289] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:44:41+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:44:41.356] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:44:41+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:44:41.434] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:44:45+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:44:45.830] == Alive peer_list=['13.233.218.239:9000', '13.235.186.52:9000', '13.235.172.118:9000', '13.235.213.123:9000', '13.126.189.189:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:44:45+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:44:45.847] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:44:45+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:44:45.898] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:44:54+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:44:54.603] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:45:22+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:45:22.676] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:45:22+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:45:22.737] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:45:26+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:45:25.948] == Alive peer_list=['13.126.189.189:9000', '13.235.163.199:9000', '13.235.208.173:9000', '13.235.172.118:9000', '13.235.224.125:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:45:26+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:45:25.965] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:45:26+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:45:26.025] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:45:34+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:45:34.756] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:46:03+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:46:02.812] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:46:03+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:46:02.905] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:46:06+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:46:06.249] == Alive peer_list=['13.235.208.173:9000', '13.235.224.125:9000', '13.235.213.123:9000', '13.235.172.118:9000', '13.235.186.52:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:46:06+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:46:06.265] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:46:06+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:46:06.321] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:46:15+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:46:15.025] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:46:43+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:46:43.098] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:46:43+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:46:43.177] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:46:46+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:46:46.398] == Alive peer_list=['13.235.208.173:9000', '13.126.189.189:9000', '13.235.163.199:9000', '13.235.213.123:9000', '13.235.162.219:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:46:46+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:46:46.410] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:46:46+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:46:46.455] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:46:55+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:46:55.140] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:47:23+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:47:23.239] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:47:23+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:47:23.408] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:47:27+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:47:26.765] == Alive peer_list=['13.235.140.194:9000', '13.233.218.239:9000', '13.235.213.123:9000', '13.235.186.52:9000', '13.235.224.125:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:47:27+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:47:26.776] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:47:27+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:47:26.814] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:47:35+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:47:35.530] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:48:03+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:48:03.589] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:48:04+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:48:03.704] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:48:07+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:48:06.941] == Alive peer_list=['13.235.208.173:9000', '13.235.224.125:9000', '13.233.218.239:9000', '13.235.163.199:9000', '13.235.186.52:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:48:07+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:48:06.956] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:48:07+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:48:07.025] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:48:16+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:48:15.733] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:48:44+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:48:43.801] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:48:44+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:48:43.874] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:48:47+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:48:47.417] == Alive peer_list=['13.235.186.52:9000', '13.126.189.189:9000', '13.235.140.194:9000', '13.235.208.173:9000', '13.235.224.125:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:48:47+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:48:47.425] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:48:47+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:48:47.463] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:48:56+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:48:56.155] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:49:24+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:49:24.239] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:49:24+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:49:24.307] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:49:27+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:49:27.531] == Alive peer_list=['13.235.208.173:9000', '13.235.224.125:9000', '13.235.163.199:9000', '13.235.162.219:9000', '13.233.218.239:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:49:27+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:49:27.543] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:49:28+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:49:27.580] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:49:36+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:49:36.285] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:50:04+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:50:04.339] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:50:04+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:50:04.406] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:50:08+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:50:07.678] == Alive peer_list=['13.233.218.239:9000', '13.126.189.189:9000', '13.235.162.219:9000', '13.235.224.125:9000', '13.235.140.194:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:50:08+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:50:07.690] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:50:08+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:50:07.726] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:50:16+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:50:16.407] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:50:44+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:50:44.480] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:50:45+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:50:44.542] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:50:48+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:50:47.743] == Alive peer_list=['13.126.189.189:9000', '13.235.208.173:9000', '13.233.218.239:9000', '13.235.224.125:9000', '13.235.213.123:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:50:48+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:50:47.752] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:50:48+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:50:47.784] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:50:55+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:50:56.460] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:51:25+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:51:24.544] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:51:25+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:51:24.611] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:51:28+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:51:27.821] == Alive peer_list=['13.235.224.125:9000', '13.126.189.189:9000', '13.235.186.52:9000', '13.235.140.194:9000', '13.235.163.199:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:51:28+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:51:27.839] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:51:28+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:51:27.904] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:51:37+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:51:36.618] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:52:05+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:52:04.680] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:52:05+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:52:04.762] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:52:08+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:52:08.008] == Alive peer_list=['13.126.189.189:9000', '13.235.208.173:9000', '13.235.224.125:9000', '13.235.172.118:9000', '13.233.218.239:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:52:08+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:52:08.028] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:52:08+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:52:08.072] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:52:17+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:52:16.777] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:52:45+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:52:44.847] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:52:45+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:52:44.923] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:52:48+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:52:48.248] == Alive peer_list=['13.126.189.189:9000', '13.235.163.199:9000', '13.235.140.194:9000', '13.235.213.123:9000', '13.235.172.118:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:52:48+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:52:48.256] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:52:48+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:52:48.294] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:52:57+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:52:56.939] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:53:25+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:53:25.016] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:53:25+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:53:25.097] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:53:29+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:53:28.374] == Alive peer_list=['13.235.208.173:9000', '13.233.218.239:9000', '13.126.189.189:9000', '13.235.213.123:9000', '13.235.172.118:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:53:29+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:53:28.382] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:53:29+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:53:28.422] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:53:37+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:53:37.120] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:54:05+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:54:05.180] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:54:06+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:54:05.253] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:54:10+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:54:09.549] == Alive peer_list=['13.235.163.199:9000', '13.235.208.173:9000', '13.235.172.118:9000', '13.235.186.52:9000', '13.126.189.189:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:54:10+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:54:09.560] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:54:10+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:54:09.599] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:54:19+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:54:18.284] Success Time Synchronization!! ","hostname":"68274c511de9"}
+2019-12-17T05:54:47+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:54:46.358] Start PROC_HEALTH_CHECK ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:54:47+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:54:46.449] Start API_HEALTH_CHECK  ... 30s ","hostname":"68274c511de9"}
+2019-12-17T05:54:50+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:54:50.015] == Alive peer_list=['13.235.163.199:9000', '13.235.224.125:9000', '13.235.213.123:9000', '13.235.186.52:9000', '13.235.140.194:9000'], fastpeer_domains=['fastpeer0.icon', 'fastpeer1.icon', 'fastpeer2.icon', 'fastpeer3.icon', 'fastpeer4.icon'] ","hostname":"68274c511de9"}
+2019-12-17T05:54:50+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:54:50.025] Start BlockCheck ","hostname":"68274c511de9"}
+2019-12-17T05:54:50+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:54:50.092] Time synchronization with NTP / NTP SERVER: time.google.com ","hostname":"68274c511de9"}
+2019-12-17T05:54:59+00:00	P-Rep-loopchain.log.booting_20191217.log	{"log":"[2019-12-17 14:54:58.738] Success Time Synchronization!! ","hostname":"68274c511de9"}

@@ -29,13 +29,16 @@ services:
         NGINX_LOG_TYPE: 'main'
         NGINX_USER: 'root'
         VIEW_CONFIG: "yes"
-        USE_NGINX_THROTTLE: "no" ## throthle use = yes change
+        USE_NGINX_THROTTLE: "yes" ## throthle use = yes change
         NGINX_THROTTLE_BY_IP_VAR: "$$binary_remote_addr"
         NGINX_THROTTLE_BY_URI: "yes"
         NGINX_THROTTLE_BY_IP: "yes"
         NGINX_RATE_LIMIT: "100r/s"
         NGINX_BURST: "5"
         NGINX_SET_NODELAY: "no"
+        USE_NGINX_STATUS: "yes"
+        NGINX_STATUS_URI: "nginx_status"
+        NGINX_STATUS_URI_ALLOWIP: "127.0.0.1"
         GRPC_PROXY_MODE: "yes"
         USE_VTS_STATUS: "yes"
         TZ: "GMT-9"
@@ -51,6 +54,7 @@ services:
     ports:
         - '7100:7100'
         - '9000:9000'
+        - '8080:8080'
     networks:
         - prep-net
 
@@ -117,7 +121,7 @@ services:
     image: grafana/grafana
     container_name: grafana
     ports:
-      - '3000:3000'
+      - '13000:3000'
     networks:
       - prep-net
 networks:

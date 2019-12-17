@@ -1,0 +1,46 @@
+2019-12-17T04:25:28+00:00	fluent.warn	{"message":"Detected ES 7.x or above: `_doc` will be used as the document `_type`."}
+2019-12-17T04:25:28+00:00	fluent.warn	{"message":"To prevent events traffic jam, you should specify 2 or more 'flush_thread_count'."}
+2019-12-17T04:25:27+00:00	fluent.warn	{"message":"Detected ES 7.x or above: `_doc` will be used as the document `_type`."}
+2019-12-17T04:25:27+00:00	fluent.warn	{"message":"To prevent events traffic jam, you should specify 2 or more 'flush_thread_count'."}
+2019-12-17T04:25:27+00:00	fluent.warn	{"message":"Detected ES 7.x or above: `_doc` will be used as the document `_type`."}
+2019-12-17T04:25:27+00:00	fluent.warn	{"message":"To prevent events traffic jam, you should specify 2 or more 'flush_thread_count'."}
+2019-12-17T04:25:27+00:00	fluent.warn	{"message":"Detected ES 7.x or above: `_doc` will be used as the document `_type`."}
+2019-12-17T04:25:27+00:00	fluent.warn	{"message":"To prevent events traffic jam, you should specify 2 or more 'flush_thread_count'."}
+2019-12-17T04:27:50+00:00	fluent.warn	{"message":"Detected ES 7.x or above: `_doc` will be used as the document `_type`."}
+2019-12-17T04:27:50+00:00	fluent.warn	{"message":"To prevent events traffic jam, you should specify 2 or more 'flush_thread_count'."}
+2019-12-17T04:27:51+00:00	fluent.warn	{"message":"Detected ES 7.x or above: `_doc` will be used as the document `_type`."}
+2019-12-17T04:27:51+00:00	fluent.warn	{"message":"To prevent events traffic jam, you should specify 2 or more 'flush_thread_count'."}
+2019-12-17T04:27:51+00:00	fluent.warn	{"message":"Detected ES 7.x or above: `_doc` will be used as the document `_type`."}
+2019-12-17T04:27:51+00:00	fluent.warn	{"message":"To prevent events traffic jam, you should specify 2 or more 'flush_thread_count'."}
+2019-12-17T04:27:50+00:00	fluent.warn	{"message":"Detected ES 7.x or above: `_doc` will be used as the document `_type`."}
+2019-12-17T04:27:50+00:00	fluent.warn	{"message":"To prevent events traffic jam, you should specify 2 or more 'flush_thread_count'."}
+2019-12-17T04:27:52+00:00	fluent.warn	{"message":"Detected ES 7.x or above: `_doc` will be used as the document `_type`."}
+2019-12-17T04:27:52+00:00	fluent.warn	{"message":"To prevent events traffic jam, you should specify 2 or more 'flush_thread_count'."}
+2019-12-17T04:30:03+00:00	fluent.warn	{"message":"Detected ES 7.x or above: `_doc` will be used as the document `_type`."}
+2019-12-17T04:30:03+00:00	fluent.warn	{"message":"To prevent events traffic jam, you should specify 2 or more 'flush_thread_count'."}
+2019-12-17T04:30:03+00:00	fluent.warn	{"message":"Detected ES 7.x or above: `_doc` will be used as the document `_type`."}
+2019-12-17T04:30:03+00:00	fluent.warn	{"message":"To prevent events traffic jam, you should specify 2 or more 'flush_thread_count'."}
+2019-12-17T04:30:04+00:00	fluent.warn	{"message":"Detected ES 7.x or above: `_doc` will be used as the document `_type`."}
+2019-12-17T04:30:04+00:00	fluent.warn	{"message":"To prevent events traffic jam, you should specify 2 or more 'flush_thread_count'."}
+2019-12-17T04:30:04+00:00	fluent.warn	{"message":"Detected ES 7.x or above: `_doc` will be used as the document `_type`."}
+2019-12-17T04:30:04+00:00	fluent.warn	{"message":"To prevent events traffic jam, you should specify 2 or more 'flush_thread_count'."}
+2019-12-17T04:30:05+00:00	fluent.warn	{"message":"Detected ES 7.x or above: `_doc` will be used as the document `_type`."}
+2019-12-17T04:30:05+00:00	fluent.warn	{"message":"To prevent events traffic jam, you should specify 2 or more 'flush_thread_count'."}
+2019-12-17T04:30:25+00:00	fluent.warn	{"message":"Detected ES 7.x or above: `_doc` will be used as the document `_type`."}
+2019-12-17T04:30:25+00:00	fluent.warn	{"message":"To prevent events traffic jam, you should specify 2 or more 'flush_thread_count'."}
+2019-12-17T04:30:26+00:00	fluent.warn	{"message":"Detected ES 7.x or above: `_doc` will be used as the document `_type`."}
+2019-12-17T04:30:26+00:00	fluent.warn	{"message":"To prevent events traffic jam, you should specify 2 or more 'flush_thread_count'."}
+2019-12-17T04:30:26+00:00	fluent.warn	{"message":"Detected ES 7.x or above: `_doc` will be used as the document `_type`."}
+2019-12-17T04:30:26+00:00	fluent.warn	{"message":"To prevent events traffic jam, you should specify 2 or more 'flush_thread_count'."}
+2019-12-17T04:31:03+00:00	fluent.warn	{"message":"Detected ES 7.x or above: `_doc` will be used as the document `_type`."}
+2019-12-17T04:31:03+00:00	fluent.warn	{"message":"To prevent events traffic jam, you should specify 2 or more 'flush_thread_count'."}
+2019-12-17T04:31:03+00:00	fluent.warn	{"message":"Detected ES 7.x or above: `_doc` will be used as the document `_type`."}
+2019-12-17T04:31:03+00:00	fluent.warn	{"message":"To prevent events traffic jam, you should specify 2 or more 'flush_thread_count'."}
+2019-12-17T04:31:56+00:00	fluent.warn	{"message":"Detected ES 7.x or above: `_doc` will be used as the document `_type`."}
+2019-12-17T04:31:56+00:00	fluent.warn	{"message":"To prevent events traffic jam, you should specify 2 or more 'flush_thread_count'."}
+2019-12-17T04:32:06+00:00	fluent.warn	{"message":"Detected ES 7.x or above: `_doc` will be used as the document `_type`."}
+2019-12-17T04:32:06+00:00	fluent.warn	{"message":"To prevent events traffic jam, you should specify 2 or more 'flush_thread_count'."}
+2019-12-17T04:39:07+00:00	fluent.warn	{"message":"Detected ES 7.x or above: `_doc` will be used as the document `_type`."}
+2019-12-17T04:39:07+00:00	fluent.warn	{"message":"To prevent events traffic jam, you should specify 2 or more 'flush_thread_count'."}
+2019-12-17T05:35:17+00:00	fluent.warn	{"retry_time":0,"next_retry_seconds":"2019-12-17 05:35:18 +0000","chunk":"599dfb13d77bc0402a9f0992cb0aa26f","error":"#<Fluent::Plugin::ElasticsearchOutput::RecoverableRequestFailure: could not push logs to Elasticsearch cluster ({:host=>\"elasticsearch\", :port=>9200, :scheme=>\"http\"}): getaddrinfo: Try again (SocketError)>","message":"failed to flush the buffer. retry_time=0 next_retry_seconds=2019-12-17 05:35:18 +0000 chunk=\"599dfb13d77bc0402a9f0992cb0aa26f\" error_class=Fluent::Plugin::ElasticsearchOutput::RecoverableRequestFailure error=\"could not push logs to Elasticsearch cluster ({:host=>\\\"elasticsearch\\\", :port=>9200, :scheme=>\\\"http\\\"}): getaddrinfo: Try again (SocketError)\""}
+2019-12-17T05:35:18+00:00	fluent.warn	{"chunk_id":"599dfb13d77bc0402a9f0992cb0aa26f","message":"retry succeeded. chunk_id=\"599dfb13d77bc0402a9f0992cb0aa26f\""}

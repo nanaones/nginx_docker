@@ -222,7 +222,7 @@ server {
 {{ end }}
 
 {{ if eq .Env.USE_NGINX_STATUS "yes" }}
-    location ~ /{{ .Env.NGINX_STATUS_URI }}($|/) {
+    location ~ {{ .Env.NGINX_STATUS_URI }} {
         stub_status on;
         access_log   off;
 {{ range $ipaddr :=  split .Env.NGINX_ALLOW_IP " " }}
